@@ -500,7 +500,7 @@
                 
                 <div style="margin: 20px 0; display:flex; gap:10px; justify-content: center; background: #0f172a; padding:10px; border-radius:10px;">
                     <input type="checkbox" id="chk-tournament" style="width:20px; height:20px;"> 
-                    <label for="chk-tournament" style="cursor: pointer;">🏆 تفعيل البطولة الكبرى (6 جولات)</label>
+                    <label for="chk-tournament" style="cursor: pointer;">🏆 تفعيل البطولة الكبرى (7 جولات)</label>
                 </div>
 
                 <button class="btn btn-primary" style="width: 100%; font-size: 1.2rem;" onclick="goToCategories()">التالي: اختيار الأسئلة ⬅️</button>
@@ -4637,8 +4637,8 @@ general: {
             {id:'visual', name:'أسئلة صورية', icon:'🎭', note: 'مطلوب لألعاب: الذاكرة وبدون كلام'}
         ];
         const globalUsedQuestions = new Set();
-        const punishmentsMen = ["تمرين ضغط 20 مرة", "حمل أحد أعضاء الفريق", "شرب ليمون بدون تعابير", "الجري في المكان دقيقتين", "تقليد مصارع", "الوقوف على رجل واحدة 3 دقائق"];
-        const punishmentsWomen = ["قول نكتة", "رسم شيء مغمضة العينين", "تقليد لهجة غريبة", "عدم الضحك لمدة دقيقتين", "أكل قطعة ليمون", "مكياج مضحك من الفريق الفائز"];
+        const punishmentsMen = [ "سوي مساج للفايز","بلانك لمدة 30ثانيه","تمرين ضغط 20 مرة", "حمل أحد أعضاء الفريق", "الوقوف على رجل واحدة 2 دقائق"];
+        const punishmentsWomen = ["قول نكتة", "رسم شيء مغمضة العينين", "تقليد لهجة غريبة", "أكل قطعة ليمون", "مكياج مضحك من الفريق الفائز"];
         const punishmentsFamily = ["صورة جماعية بوجوه مضحكة", "تمرين رياضي جماعي خفيف", "كل شخص يقلد حيوان", "الخاسر يصب القهوة للجميع"];
         
         const SCORE_RULES = { treasureStep: 5, treasureWin: 15, hiveCell: 3, hiveWin: 10, speed: 5, word: 10, panto: 8, memory: 8 };
@@ -4705,7 +4705,7 @@ general: {
             document.getElementById('sb-score-t2').innerText = state.t2.score;
             document.getElementById('sb-name-t1').innerText = state.t1.name;
             document.getElementById('sb-name-t2').innerText = state.t2.name;
-            let msg = state.isTournament ? `🏆 باقي ${6 - state.playedGames.size} ألعاب` : "لعب حر";
+            let msg = state.isTournament ? `🏆 باقي ${7 - state.playedGames.size} ألعاب` : "لعب حر";
             document.getElementById('game-status-text').innerText = msg;
         }
 
@@ -4718,6 +4718,8 @@ general: {
                         <p><strong style="color:var(--accent)">🏴‍☠️ الكنز:</strong> سباق للوصول للقمة! كل إجابة صحيحة تقدمك خطوة. انتبه من "الأفخاخ" التي قد تعيدك للخلف.</p>
                         <hr style="border-color:#334155; margin:5px 0">
                         <p><strong style="color:var(--primary)">🐝 الخلية:</strong> استراتيجية وذكاء. سيطر على الخلايا لربط الجانبين ببعضهما. اقطع الطريق على خصمك!</p>
+                        <hr style="border-color:#334155; margin:5px 0">
+                        <p><strong style="color:#3b82f6">🛡️ احمِ منطقتك:</strong> حرب مسارات! لديك 5 فرص للاختراق. حاول عبور المنطقة الفاصلة ودخول أرض الخصم في أي مسار لتفوز فوراً.</p>
                         <hr style="border-color:#334155; margin:5px 0">
                         <p><strong style="color:var(--team1)">⚡ من الأسرع؟:</strong> السرعة هي الحكم! سؤال يظهر للجميع، من يطلب ضغط الجرس (أو يصرخ) أولاً ويجيب صح يكسب.</p>
                         <hr style="border-color:#334155; margin:5px 0">
@@ -4799,7 +4801,7 @@ general: {
                 document.querySelectorAll('.game-card').forEach(c => c.classList.remove('done'));
                 return;
             }
-            ['treasure', 'hive', 'speed', 'words', 'panto', 'memory'].forEach(g => {
+            ['treasure', 'hive', 'speed', 'words', 'panto', 'memory', 'protect'].forEach(g => {
                 let card = document.getElementById('card-'+g);
                 if(state.playedGames.has(g)) card.classList.add('done'); else card.classList.remove('done');
             });
@@ -5611,6 +5613,12 @@ general: {
         }
         function applyFailEffect(team) {
             if(state.activeGame === 'treasure') { state.activeTurn = (team==='t1')?'t2':'t1'; updateTreasureTurn(); }
+            if(state.activeGame === 'protect') {
+                // نقل الدور للفريق الآخر
+                state.activeTurn = (team==='t1')?'t2':'t1'; 
+                // تحديث الشاشة لقفل دوائر هذا الفريق وفتح دوائر الفريق الآخر
+                updateProtectUI();
+            }
         }
         function checkHiveWin(team) {
             let grid = state.gameData.grid;
@@ -5669,7 +5677,7 @@ general: {
                 }
             }
 
-            let gamesLeft = 6 - state.playedGames.size;
+            let gamesLeft = 7 - state.playedGames.size;
             let subMsg = state.isTournament ? (gamesLeft <= 0 ? "<br><strong>🏁 انتهت جميع الجولات!</strong>" : `باقي ${gamesLeft} جولات`) : "لعبة ممتعة!";
             let isTournamentFinished = state.isTournament && gamesLeft <= 0;
             let btnText = isTournamentFinished ? "🏆 النتائج النهائية والعقاب" : "عودة للمركز";
