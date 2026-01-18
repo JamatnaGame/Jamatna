@@ -134,6 +134,49 @@
         .btn-grey { background: #475569; }
         .btn-t1 { background: var(--team1); color: white; }
         .btn-t2 { background: var(--team2); color: white; }
+        /* تنسيقات لعبة احم منطقتك */
+        .protect-container {
+            display: grid;
+            grid-template-columns: repeat(7, 1fr); 
+            gap: 5px;
+            width: 98%;
+            max-width: 800px;
+            margin: 10px auto;
+            flex-grow: 1;
+            align-content: center;
+        }
+        .pr-col {
+            display: flex;
+            flex-direction: column;
+            gap: 8px;
+            padding: 5px;
+            border-radius: 10px;
+            background: rgba(0,0,0,0.2);
+            align-items: center;
+        }
+        .pr-col.zone-t1 { border: 1px dashed var(--team1); }
+        .pr-col.zone-t2 { border: 1px dashed var(--team2); }
+        .pr-col.zone-neu { border: 2px solid var(--primary); background: rgba(245, 158, 11, 0.1); }
+        .pr-node {
+            width: 38px; height: 38px;
+            border-radius: 50%;
+            background: #334155;
+            border: 2px solid #475569;
+            display: flex; justify-content: center; align-items: center;
+            font-weight: bold; cursor: pointer;
+            transition: 0.2s;
+            font-size: 0.8rem;
+            position: relative;
+        }
+        .pr-node.owned-t1 { background: var(--team1); color: white; border-color: white; box-shadow: 0 0 5px var(--team1); }
+        .pr-node.owned-t2 { background: var(--team2); color: white; border-color: white; box-shadow: 0 0 5px var(--team2); }
+        .pr-node.playable { border-color: white; animation: pulseBorder 1.5s infinite; opacity: 1; }
+        .pr-node.locked { opacity: 0.4; pointer-events: none; }
+        @media screen and (max-height: 500px) {
+            .pr-node { width: 28px; height: 28px; font-size: 0.6rem; border-width: 1px; }
+            .protect-container { gap: 2px; }
+            .pr-col { gap: 3px; padding: 2px; }
+        }
 
         /* === الهيدر === */
         .header-controls {
@@ -493,6 +536,7 @@
                 <div class="game-card" id="card-words" onclick="preLaunchGame('words')"><i class="fas fa-shapes"></i><h3>رتب الحروف</h3></div>
                 <div class="game-card" id="card-panto" onclick="preLaunchGame('panto')"><i class="fas fa-theater-masks"></i><h3>بدون كلام</h3><p style="font-size:0.7rem; color:#94a3b8"> خمن الكلمة </p></div>
                 <div class="game-card" id="card-memory" onclick="preLaunchGame('memory')"><i class="fas fa-brain"></i><h3>الذاكرة</h3><p style="font-size:0.7rem; color:#94a3b8">شقلبة وتذكر</p></div>
+                <div class="game-card" id="card-protect" onclick="preLaunchGame('protect')"><i class="fas fa-shield-alt"></i><h3>احمِ منطقتك</h3><p style="font-size:0.7rem; color:#94a3b8">اختراق الحدود</p></div>
                 <div class="game-card coming-soon"><i class="fas fa-search-plus" style="color: #94a3b8;"></i><h3>صاحب الظل</h3><p style="font-size:0.7rem;">قريباً...</p></div>
             </div>
         </div>
@@ -578,7 +622,24 @@
                 <button class="btn btn-primary" id="mem-start-btn" onclick="startMemoryRound()">ابدأ الجولة</button>
             </div>
         </div>
+        <div id="screen-protect" class="screen">
+            <div class="header-controls">
+                <button class="btn btn-grey btn-back" onclick="checkExit('protect')">خروج</button>
+                <div class="center-absolute">
+                    <div style="background:#334155; padding:5px 20px; border-radius:20px; border:1px solid #475569;">
+                        الدور: <span id="pr-turn"></span>
+                    </div>
+                </div>
+                <div style="width: 60px;"></div>
+            </div>
+            
+            <div class="protect-container" id="protect-grid-container">
+                </div>
 
+            <div style="text-align:center; margin-top:5px; color:#94a3b8; font-size:0.7rem;">
+                الهدف: اعبر المنطقة الصفراء وادخل منطقة الخصم لتفوز فوراً!
+            </div>
+        </div>
         <div id="modal-overlay" class="modal-overlay"><div id="modal-content" class="modal-box"></div></div>
         <div id="modal-coin-toss" class="modal-overlay" style="display:none; z-index:3000;">
             <div class="modal-box" style="background:transparent; box-shadow:none; border:none;">
@@ -601,9 +662,7 @@
                 if (e.key === "ArrowUp") activeScreen.scrollTop -= 50;
             }
         });
-  
-         
-   const DB = {     
+       const DB = {     
         treasure: {
                 islamic: {
                     easy: [
@@ -4566,9 +4625,8 @@ general: {
     ]
                 }
             }
-        }; 
+        };
 
-        
 
         const categories = [
             {id:'islamic', name:'إسلاميات', icon:'☪️'}, 
@@ -4770,7 +4828,7 @@ general: {
             }
 
             playSound('click');
-            if (game === 'treasure' || game === 'hive') doCoinToss(() => launchGame(game));
+            if (game === 'treasure' || game === 'hive' || game === 'protect') doCoinToss(() => launchGame(game));            
             else {
                 const box = document.getElementById('modal-content');
                 box.innerHTML = `<h3>إعدادات الجولة</h3><p>العدد المطلوب:</p><input type="number" id="q-limit" value="5" min="1" max="50" style="width:100px; font-size:1.5rem"><div style="margin-top:20px"><button class="btn btn-primary" onclick="setLimitAndStart('${game}')">ابدأ</button></div>`;
@@ -4811,6 +4869,7 @@ general: {
             else if(game === 'words') initWords();
             else if(game === 'panto') initPanto();
             else if(game === 'memory') initMemory();
+            else if(game === 'protect') initProtect();
         }
 
         // --- Treasure ---
@@ -5285,17 +5344,25 @@ general: {
             }
         }
 
-        function getUniqueQuestion(char) {
+       function getUniqueQuestion(char) {
             let gameName = state.activeGame;
             
-            // 1. تحديد الأقسام المختارة من قبل اللاعب
-            let activeCats = Object.keys(state.catConfig);
+            // ============================================================
+            // التعديل هنا: توجيه اللعبة الجديدة لاستخدام أسئلة الكنز
+            // ============================================================
+            // المتغير dbKey سيحدد من أين نأتي بالأسئلة
+            let dbKey = gameName;
             
-            // 2. خلط ترتيب الأقسام عشوائياً (عشان ما يكون الترتيب دائماً ثابت)
+            if (gameName === 'protect') {
+                dbKey = 'treasure'; // إذا كانت اللعبة "احمِ منطقتك"، استخدم أسئلة "الكنز"
+            }
+            // ============================================================
+
+            // 1. تحديد الأقسام المختارة
+            let activeCats = Object.keys(state.catConfig);
             activeCats.sort(() => Math.random() - 0.5);
 
-            // 3. الذكاء في التنويع: نحاول استبعاد "آخر قسم ظهر" من قائمة البحث الأولية
-            // يعني لو السؤال اللي فات كان "إسلامي"، نشيل "إسلامي" من القائمة عشان نعطي فرصة لغيره
+            // استبعاد آخر قسم ظهر لضمان التنويع
             let searchList = [...activeCats];
             if (state.gameData.lastCat && searchList.length > 1) {
                 searchList = searchList.filter(c => c !== state.gameData.lastCat);
@@ -5304,21 +5371,22 @@ general: {
             let foundQuestion = null;
             let selectedCat = "";
 
-            // دالة مساعدة لجلب الأسئلة من قسم معين
+            // دالة مساعدة لجلب الأسئلة
             const getQuestionsForCat = (cat) => {
                 let pool = [];
                 let difficulty = state.catConfig[cat];
                 
-                // --- تطبيق تعديلك الثاني: تحويل المتوسط إلى مكس (سهل + صعب) ---
+                // دعم نظام مكس (سهل + صعب)
                 let targetDiffs = (difficulty === 'medium') ? ['easy', 'hard'] : [difficulty];
 
                 targetDiffs.forEach(diff => {
-                    if (DB[gameName] && DB[gameName][cat] && DB[gameName][cat][diff]) {
-                        pool = pool.concat(DB[gameName][cat][diff]);
+                    // نستخدم dbKey بدلاً من gameName للوصول لقاعدة البيانات
+                    if (DB[dbKey] && DB[dbKey][cat] && DB[dbKey][cat][diff]) {
+                        pool = pool.concat(DB[dbKey][cat][diff]);
                     }
                 });
 
-                // فلترة خاصة للعبة الخلية (حسب الحرف)
+                // فلترة خاصة للعبة الخلية
                 if (gameName === 'hive' && char) {
                     pool = pool.filter(q => q && q.char === char);
                 }
@@ -5326,21 +5394,19 @@ general: {
                 return pool;
             };
 
-            // 4. المحاولة الأولى: البحث في الأقسام الجديدة (غير السابقة)
+            // البحث في الأقسام
             for (let cat of searchList) {
                 let pool = getQuestionsForCat(cat);
-                // --- تطبيق تعديلك الأول: منع التكرار نهائياً ---
                 let available = pool.filter(q => q && q.q && !globalUsedQuestions.has(q.q));
                 
                 if (available.length > 0) {
                     foundQuestion = available[Math.floor(Math.random() * available.length)];
                     selectedCat = cat;
-                    break; // وجدنا سؤالاً من قسم جديد! ممتاز، نوقف البحث
+                    break;
                 }
             }
 
-            // 5. المحاولة الثانية (خطة بديلة): 
-            // إذا لم نجد أسئلة في الأقسام الجديدة (ربما نفدت)، نرجع ندور في القسم اللي استبعدناه (القسم السابق)
+            // المحاولة الثانية (إذا لم نجد في الأقسام الجديدة)
             if (!foundQuestion && state.gameData.lastCat) {
                 let cat = state.gameData.lastCat;
                 let pool = getQuestionsForCat(cat);
@@ -5351,15 +5417,12 @@ general: {
                 }
             }
 
-            // 6. حماية نهائية: لو نفدت كل الأسئلة في كل الأقسام
+            // حماية نهائية
             if (!foundQuestion) {
                  return { q: `انتهت الأسئلة!`, a: "-", o: ["-", "-"], id: "err" + Date.now() };
             }
 
-            // حفظ القسم الحالي عشان نتجنبه المرة الجاية (لضمان التنويع)
             state.gameData.lastCat = selectedCat;
-            
-            // تسجيل السؤال عشان مستحيل يتكرر
             globalUsedQuestions.add(foundQuestion.q);
             
             return foundQuestion;
@@ -5398,6 +5461,84 @@ general: {
 
         function applyWinEffect(team) {
             closeModal();
+            // ==========================================
+            // ربط الأسئلة بلعبة: احمِ منطقتك (7 أعمدة)
+            // ==========================================
+            if (state.activeGame === 'protect') {
+                // استرجاع المكان الذي ضغط عليه اللاعب قبل ظهور السؤال
+                let coords = state.gameData.pendingCoords;
+                
+                // إذا لم تكن هناك إحداثيات محفوظة (خطأ نادر)، نخرج
+                if (!coords) return;
+
+                let r = coords.r; // الصف (المسار)
+                let c = coords.c; // العمود
+
+                // 1. تلوين الدائرة بلون الفريق الفائز بالسؤال
+                state.gameData.grid[c][r] = team;
+                
+                // 2. تحديث التقدم (فتح الدائرة التالية)
+                if (team === 't1') {
+                    // تحديث تقدم الفريق 1 في هذا المسار المحدد
+                    state.gameData.t1Progress[r] = c;
+                    
+                    // فحص الفوز الفوري: الوصول للعمود رقم 4 (أول منطقة للخصم)
+                    if (c >= 4) { 
+                        state[team].score += 30; // نقاط إضافية للفوز
+                        showCustomModal(`<h1>🚀 اختراق ناجح!</h1><h2>فاز فريق ${state[team].name}</h2><p>وصلوا لعمق منطقة الخصم في المسار ${r+1}!</p><button class="btn btn-primary" onclick="closeModal(); declareGrandWinner();">إنهاء اللعبة وتتويج الفائز</button>`, false);
+                        return;
+                    }
+                } else { // Team 2
+                    // تحديث تقدم الفريق 2 في هذا المسار المحدد
+                    state.gameData.t2Progress[r] = c;
+                    
+                    // فحص الفوز الفوري: الوصول للعمود رقم 2 (أول منطقة للخصم من الجهة الأخرى)
+                    if (c <= 2) { 
+                        state[team].score += 30;
+                        showCustomModal(`<h1>🚀 اختراق ناجح!</h1><h2>فاز فريق ${state[team].name}</h2><p>وصلوا لعمق منطقة الخصم في المسار ${r+1}!</p><button class="btn btn-primary" onclick="closeModal(); declareGrandWinner();">إنهاء اللعبة وتتويج الفائز</button>`, false);
+                        return;
+                    }
+                }
+
+                // 3. فحص الفوز بالسيطرة (إذا امتلأت المنطقة الفاصلة - العمود 3)
+                let neutralCol = state.gameData.grid[3];
+                // هل كل الخانات في العمود الأوسط ممتلئة؟
+                let isFull = neutralCol.every(val => val !== null);
+                
+                if (isFull) {
+                    let t1Count = neutralCol.filter(x => x === 't1').length;
+                    let t2Count = neutralCol.filter(x => x === 't2').length;
+                    
+                    let winner = null;
+                    let msg = "";
+                    
+                    if (t1Count > t2Count) { 
+                        winner = 't1'; 
+                        msg = `النتيجة في الفاصل: ${t1Count} (لهم) مقابل ${t2Count}`; 
+                    } else if (t2Count > t1Count) { 
+                        winner = 't2'; 
+                        msg = `النتيجة في الفاصل: ${t2Count} (لهم) مقابل ${t1Count}`; 
+                    }
+                    
+                    if (winner) {
+                        state[winner].score += 15;
+                        showCustomModal(`<h1>🔒 المنطقة مغلقة!</h1><h2>الفائز بالسيطرة: ${state[winner].name}</h2><p>${msg}</p><button class="btn btn-primary" onclick="closeModal(); declareGrandWinner();">إنهاء اللعبة</button>`, false);
+                        return;
+                    } else {
+                        // حالة نادرة: تعادل في المنطقة الفاصلة
+                        showCustomModal("<h3>⚠️ تعادل في المنطقة الفاصلة!</h3><p>لا يوجد فائز بالسيطرة.. اللعب مستمر حتى ينجح أحدكم بالاختراق!</p>");
+                    }
+                }
+
+                // 4. نقل الدور وتحديث الشاشة
+                state.activeTurn = (team==='t1')?'t2':'t1';
+                updateProtectUI();
+                return;
+            }
+            // ==========================================
+            // هنا ينتهي كود اللعبة الجديدة
+            // (تأكد أن كود الألعاب القديمة موجود تحته)
+            // ==========================================
             if(state.activeGame === 'treasure') {
                 let node = state.gameData.pendingNode;
                 if(node.dataset.trap === 'true') {
@@ -5429,6 +5570,44 @@ general: {
                 state.gameData.pendingCell.classList.add(team);
                 if(checkHiveWin(team)) { state[team].score += SCORE_RULES.hiveWin; endGame('hive', team); }
             }
+            // === بداية كود احم منطقتك ===
+            if (state.activeGame === 'protect') {
+                let coords = state.gameData.pendingCoords;
+                let r = coords.r, c = coords.c;
+                state.gameData.grid[c][r] = team;
+                
+                if (team === 't1') {
+                    state.gameData.t1Progress[r] = c;
+                    if (c >= 4) { // دخول منطقة الخصم
+                        state[team].score += 30;
+                        showCustomModal(`<h1>🚀 اختراق!</h1><h2>فاز فريق ${state[team].name}</h2><button class="btn btn-primary" onclick="closeModal(); declareGrandWinner();">إنهاء</button>`, false);
+                        return;
+                    }
+                } else { 
+                    state.gameData.t2Progress[r] = c;
+                    if (c <= 2) { // دخول منطقة الخصم
+                        state[team].score += 30;
+                        showCustomModal(`<h1>🚀 اختراق!</h1><h2>فاز فريق ${state[team].name}</h2><button class="btn btn-primary" onclick="closeModal(); declareGrandWinner();">إنهاء</button>`, false);
+                        return;
+                    }
+                }
+
+                let neutralCol = state.gameData.grid[3];
+                if (neutralCol.every(val => val !== null)) {
+                    let t1Count = neutralCol.filter(x => x === 't1').length;
+                    let t2Count = neutralCol.filter(x => x === 't2').length;
+                    let winner = t1Count > t2Count ? 't1' : t2Count > t1Count ? 't2' : null;
+                    if (winner) {
+                        state[winner].score += 15;
+                        showCustomModal(`<h1>🔒 سيطرة!</h1><h2>الفائز: ${state[winner].name}</h2><button class="btn btn-primary" onclick="closeModal(); declareGrandWinner();">إنهاء</button>`, false);
+                        return;
+                    } else showCustomModal("<h3>⚠️ تعادل في الفاصل!</h3><p>استمروا حتى الاختراق!</p>");
+                }
+                state.activeTurn = (team==='t1')?'t2':'t1';
+                updateProtectUI();
+                return;
+            }
+            // === نهاية كود احم منطقتك (أكمل الكود القديم بعده) ===
         }
         function applyFailEffect(team) {
             if(state.activeGame === 'treasure') { state.activeTurn = (team==='t1')?'t2':'t1'; updateTreasureTurn(); }
@@ -5547,6 +5726,73 @@ general: {
                 showScreen('screen-hub');
                 updateHubCards(); // لتحديث حالة الألعاب المكتملة
             });
+        }
+        // --- دوال لعبة احم منطقتك ---
+        function initProtect() {
+            state.gameData = { 
+                grid: Array(7).fill().map(() => Array(5).fill(null)), 
+                t1Progress: [-1, -1, -1, -1, -1], 
+                t2Progress: [7, 7, 7, 7, 7] 
+            };
+            const container = document.getElementById('protect-grid-container');
+            container.innerHTML = '';
+            for(let c=0; c<7; c++) {
+                let colDiv = document.createElement('div');
+                colDiv.className = 'pr-col';
+                if(c <= 2) colDiv.classList.add('zone-t1');
+                else if(c === 3) colDiv.classList.add('zone-neu');
+                else colDiv.classList.add('zone-t2');
+                for(let r=0; r<5; r++) {
+                    let node = document.createElement('div');
+                    node.className = 'pr-node locked';
+                    node.id = `pr-${c}-${r}`;
+                    node.onclick = () => handleProtectClick(c, r);
+                    colDiv.appendChild(node);
+                }
+                container.appendChild(colDiv);
+            }
+            updateProtectUI();
+            showScreen('screen-protect');
+        }
+
+        function updateProtectUI() {
+            let turnEl = document.getElementById('pr-turn');
+            turnEl.innerText = state[state.activeTurn].name;
+            turnEl.style.color = state.activeTurn === 't1' ? 'var(--team1)' : 'var(--team2)';
+            for(let c=0; c<7; c++) {
+                for(let r=0; r<5; r++) {
+                    let node = document.getElementById(`pr-${c}-${r}`);
+                    let owner = state.gameData.grid[c][r];
+                    node.className = 'pr-node';
+                    if (owner === 't1') node.classList.add('owned-t1');
+                    else if (owner === 't2') node.classList.add('owned-t2');
+                    
+                    let isPlayable = false;
+                    if (!owner) {
+                        if (state.activeTurn === 't1' && c === state.gameData.t1Progress[r] + 1) isPlayable = true;
+                        else if (state.activeTurn === 't2' && c === state.gameData.t2Progress[r] - 1) isPlayable = true;
+                    } else node.classList.add('locked');
+
+                    if (isPlayable) node.classList.add('playable');
+                    else if (!owner) node.classList.add('locked');
+                }
+            }
+        }
+
+        function handleProtectClick(c, r) {
+            let node = document.getElementById(`pr-${c}-${r}`);
+            if (!node.classList.contains('playable')) {
+                if (state.gameData.grid[c][r]) return;
+                showCustomModal("<h3>🚫 حركة غير مسموحة</h3><p>يجب الالتزام بالمسار الأفقي والدور.</p>");
+                return;
+            }
+            state.gameData.pendingCoords = {c, r};
+            askQuestionRoutine(state.activeTurn);
+            setTimeout(() => {
+                if(document.getElementById('q-timer')) {
+                    startTimerUI(10, 'q-timer', () => { finalizeAnswer(false); });
+                }
+            }, 500);
         }
 
     </script>
