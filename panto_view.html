@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <title>بدون كلام</title>
+  <style>
+    body{margin:0; font-family: system-ui, -apple-system, "Segoe UI", Tahoma, Arial; background:#0b1220; color:#fff;
+         display:flex; min-height:100vh; align-items:center; justify-content:center; padding:24px;}
+    .card{background:#0f172a; border:1px solid rgba(255,255,255,.08); border-radius:18px; padding:22px 22px 18px;
+          box-shadow:0 18px 50px rgba(0,0,0,.45); width:min(560px, 92vw);}
+    h1{margin:0 0 8px; font-size:1.25rem; color:#fbbf24; letter-spacing:.2px;}
+    .hint{margin:0 0 14px; color:#94a3b8; font-size:.95rem;}
+    .word{margin:14px 0 18px; font-size:2rem; line-height:1.35; font-weight:900; text-align:center; padding:18px 14px;
+          background:#0b1220; border-radius:14px; border:1px dashed rgba(148,163,184,.35);}
+    .btns{display:flex; gap:10px; justify-content:center; flex-wrap:wrap;}
+    button{border:0; border-radius:12px; padding:10px 14px; font-weight:800; cursor:pointer;}
+    .btn-hide{background:#334155; color:#fff;}
+    .btn-show{background:#22c55e; color:#0b1220;}
+    .muted{margin-top:14px; text-align:center; color:#64748b; font-size:.85rem;}
+    code{background:rgba(255,255,255,.06); padding:2px 6px; border-radius:8px;}
+  </style>
+</head>
+<body>
+  <div class="card">
+    <h1>بدون كلام</h1>
+    <p class="hint">اقرأ الكلمة/المثل وحدك، ثم اشرح لفريقك بدون كلام.</p>
+
+    <div id="wordBox" class="word">…</div>
+
+    <div class="btns">
+      <button id="toggleBtn" class="btn-hide">إخفاء</button>
+    </div>
+
+    <div class="muted">هذا المحتوى يأتي من الباركود (QR). إذا لم تظهر كلمة، تأكد أن الرابط يحتوي على <code>#</code> في نهايته.</div>
+  </div>
+
+<script>
+  function getTextFromHash(){
+    const h = (location.hash || "").replace(/^#/, "");
+    try { return decodeURIComponent(h); } catch(e){ return h; }
+  }
+  const wordBox = document.getElementById('wordBox');
+  const btn = document.getElementById('toggleBtn');
+
+  let shown = true;
+  function render(){
+    const t = getTextFromHash();
+    wordBox.textContent = shown ? (t || "لا يوجد نص") : "جاهز ✅ ابدأ التمثيل";
+    btn.textContent = shown ? "إخفاء" : "إظهار";
+    btn.className = shown ? "btn-hide" : "btn-show";
+  }
+
+  btn.addEventListener('click', () => { shown = !shown; render(); });
+  window.addEventListener('hashchange', render);
+  render();
+</script>
+</body>
+</html>

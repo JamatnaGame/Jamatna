@@ -1,0 +1,3115 @@
+{
+  "type": "almajd",
+  "sub": "whois",
+  "easy": [
+    {
+      "id": "almajd_whois_img_majd_12",
+      "q": "من هو؟",
+      "a": "سالم",
+      "o": [
+        "سالم",
+        "اواب",
+        "مأمون",
+        "مناع"
+      ],
+      "h": "مسلسل لواهيب",
+      "mkind": "img",
+      "img": "assets/almajd/whois/img_majd/سالم_مسلسل لواهيب.png"
+    },
+    {
+      "id": "almajd_whois_img_kids_7",
+      "q": "من هو؟",
+      "a": "الولد الصالح",
+      "o": [
+        "دودو والاصدقاء",
+        "الدب الصغير",
+        "الولد الصالح",
+        "القطارات الآليه"
+      ],
+      "h": null,
+      "mkind": "img",
+      "img": "assets/almajd/whois/img_kids/الولد الصالح.png"
+    },
+    {
+      "id": "almajd_whois_img_majd_2",
+      "q": "من هو؟",
+      "a": "اواب",
+      "o": [
+        "فخري",
+        "عوض",
+        "اواب",
+        "سالم"
+      ],
+      "h": "مسلسل لواهيب",
+      "mkind": "img",
+      "img": "assets/almajd/whois/img_majd/اواب_مسلسل لواهيب.png"
+    },
+    {
+      "id": "almajd_whois_video1_2",
+      "q": "من هو؟",
+      "a": "اميرات",
+      "o": [
+        "اميرات",
+        "ضاقت علي كل الدروب",
+        "خطوة اميره",
+        "عبيرة المسيره"
+      ],
+      "h": null,
+      "mkind": "video",
+      "video": "assets/almajd/whois/video1/اميرات.MP4"
+    },
+    {
+      "id": "almajd_whois_audio2_8",
+      "q": "من هو؟",
+      "a": "بامبو وخلود",
+      "o": [
+        "فيروزة",
+        "فريق الامل",
+        "بامبو وخلود",
+        "جزيرة دبدوب"
+      ],
+      "h": null,
+      "mkind": "audio",
+      "audio": "assets/almajd/whois/audio2/بامبو وخلود.mpeg"
+    },
+    {
+      "id": "almajd_whois_audio2_2",
+      "q": "من هو؟",
+      "a": "ابن ماجد",
+      "o": [
+        "الراوي",
+        "الديناصورات الصغيرة",
+        "ابن ماجد",
+        "جزيرة دبدوب"
+      ],
+      "h": null,
+      "mkind": "audio",
+      "audio": "assets/almajd/whois/audio2/ابن ماجد.mpeg"
+    },
+    {
+      "id": "almajd_whois_img_kids_2",
+      "q": "من هو؟",
+      "a": "الدب الصغير",
+      "o": [
+        "مدينة الاطفال",
+        "الراوي",
+        "الفريق نون",
+        "الدب الصغير"
+      ],
+      "h": null,
+      "mkind": "img",
+      "img": "assets/almajd/whois/img_kids/الدب الصغير.png"
+    },
+    {
+      "id": "almajd_whois_img_majd_1",
+      "q": "من هو؟",
+      "a": "البشير",
+      "o": [
+        "البشير",
+        "ريان",
+        "عوض",
+        "مهاوش"
+      ],
+      "h": "مسلسل سبع البراري",
+      "mkind": "img",
+      "img": "assets/almajd/whois/img_majd/البشير_مسلسل سبع البراري.png"
+    },
+    {
+      "id": "almajd_whois_audio1_1",
+      "q": "من هو؟",
+      "a": "أهل الواحة",
+      "o": [
+        "عابر سبيل",
+        "غبار الهجير",
+        "أهل الواحة",
+        "درب النجارين"
+      ],
+      "h": null,
+      "mkind": "audio",
+      "audio": "assets/almajd/whois/audio1/أهل الواحة.mpeg"
+    },
+    {
+      "id": "almajd_whois_img_majd_8",
+      "q": "من هو؟",
+      "a": "دياب",
+      "o": [
+        "مهاوش",
+        "دياب",
+        "فهد",
+        "حمود"
+      ],
+      "h": "مسلسل لواهيب",
+      "mkind": "img",
+      "img": "assets/almajd/whois/img_majd/دياب_مسلسل لواهيب.png"
+    },
+    {
+      "id": "almajd_whois_audio2_9",
+      "q": "من هو؟",
+      "a": "جزيرة السلاحف",
+      "o": [
+        "ابن بطوطة",
+        "جزيرة دبدوب",
+        "فيروزة",
+        "جزيرة السلاحف"
+      ],
+      "h": null,
+      "mkind": "audio",
+      "audio": "assets/almajd/whois/audio2/جزيرة السلاحف.mpeg"
+    },
+    {
+      "id": "almajd_whois_img_kids_14",
+      "q": "من هو؟",
+      "a": "طقوس",
+      "o": [
+        "كونغ فود",
+        "طقوس",
+        "المُحقق كمال",
+        "دودو والاصدقاء"
+      ],
+      "h": null,
+      "mkind": "img",
+      "img": "assets/almajd/whois/img_kids/طقوس.png"
+    },
+    {
+      "id": "almajd_whois_audio1_4",
+      "q": "من هو؟",
+      "a": "جواز سفر",
+      "o": [
+        "جواز سفر",
+        "درب النجارين",
+        "ناسي مع ناسي",
+        "حي الجمالية"
+      ],
+      "h": null,
+      "mkind": "audio",
+      "audio": "assets/almajd/whois/audio1/جواز سفر.mpeg"
+    },
+    {
+      "id": "almajd_whois_audio1_8",
+      "q": "من هو؟",
+      "a": "رهين",
+      "o": [
+        "هدنة",
+        "ضد معلوم",
+        "رهين",
+        "الورشة"
+      ],
+      "h": null,
+      "mkind": "audio",
+      "audio": "assets/almajd/whois/audio1/رهين.mpeg"
+    },
+    {
+      "id": "almajd_whois_img_majd_19",
+      "q": "من هو؟",
+      "a": "مأمون",
+      "o": [
+        "مأمون",
+        "البشير",
+        "سبع",
+        "فهد"
+      ],
+      "h": "مسلسل ترحال",
+      "mkind": "img",
+      "img": "assets/almajd/whois/img_majd/مأمون_مسلسل ترحال.png"
+    },
+    {
+      "id": "almajd_whois_audio1_2",
+      "q": "من هو؟",
+      "a": "السند",
+      "o": [
+        "ضد معلوم",
+        "السند",
+        "ناسي مع ناسي",
+        "درب النجارين"
+      ],
+      "h": null,
+      "mkind": "audio",
+      "audio": "assets/almajd/whois/audio1/السند.mpeg"
+    },
+    {
+      "id": "almajd_whois_audio2_12",
+      "q": "من هو؟",
+      "a": "فريق الامل",
+      "o": [
+        "الديناصورات الصغيرة",
+        "فيروزة",
+        "بامبو وأرنوب",
+        "فريق الامل"
+      ],
+      "h": null,
+      "mkind": "audio",
+      "audio": "assets/almajd/whois/audio2/فريق الامل.mpeg"
+    },
+    {
+      "id": "almajd_whois_img_kids_15",
+      "q": "من هو؟",
+      "a": "قرية كواكوا المائية",
+      "o": [
+        "مدينة الاطفال",
+        "قرية كواكوا المائية",
+        "الدب الصغير",
+        "كونغ فود"
+      ],
+      "h": null,
+      "mkind": "img",
+      "img": "assets/almajd/whois/img_kids/قرية كواكوا المائية.png"
+    },
+    {
+      "id": "almajd_whois_img_majd_6",
+      "q": "من هو؟",
+      "a": "حمود",
+      "o": [
+        "حمود",
+        "اواب",
+        "مهاوش",
+        "سعود"
+      ],
+      "h": "مسلسل لواهيب",
+      "mkind": "img",
+      "img": "assets/almajd/whois/img_majd/حمود_مسلسل لواهيب.png"
+    },
+    {
+      "id": "almajd_whois_audio2_14",
+      "q": "من هو؟",
+      "a": "كرزة الصغيره",
+      "o": [
+        "جزيرة دبدوب",
+        "كرزة الصغيره",
+        "الديناصورات الصغيرة",
+        "الصياد الجري"
+      ],
+      "h": null,
+      "mkind": "audio",
+      "audio": "assets/almajd/whois/audio2/كرزة الصغيره.mpeg"
+    },
+    {
+      "id": "almajd_whois_img_kids_4",
+      "q": "من هو؟",
+      "a": "الفريق نون",
+      "o": [
+        "بيف وهيركول",
+        "الفريق نون",
+        "سفير الطبيعه",
+        "انين الأرض"
+      ],
+      "h": null,
+      "mkind": "img",
+      "img": "assets/almajd/whois/img_kids/الفريق نون.png"
+    },
+    {
+      "id": "almajd_whois_img_majd_18",
+      "q": "من هو؟",
+      "a": "فهد",
+      "o": [
+        "مناع",
+        "فهد",
+        "البشير",
+        "ريان"
+      ],
+      "h": "مسلسل السند",
+      "mkind": "img",
+      "img": "assets/almajd/whois/img_majd/فهد_مسلسل السند.png"
+    },
+    {
+      "id": "almajd_whois_img_kids_19",
+      "q": "من هو؟",
+      "a": "مدينة الشاحنات",
+      "o": [
+        "بيف وهيركول",
+        "نحو الشمس",
+        "مدينة الشاحنات",
+        "طقوس"
+      ],
+      "h": null,
+      "mkind": "img",
+      "img": "assets/almajd/whois/img_kids/مدينة الشاحنات.png"
+    },
+    {
+      "id": "almajd_whois_video1_3",
+      "q": "من هو؟",
+      "a": "انتهت طول المسيره",
+      "o": [
+        "انتهت طول المسيره",
+        "موطن الحب",
+        "حق باطل",
+        "دكرينا"
+      ],
+      "h": null,
+      "mkind": "video",
+      "video": "assets/almajd/whois/video1/انتهت طول المسيره.MP4"
+    },
+    {
+      "id": "almajd_whois_audio1_12",
+      "q": "من هو؟",
+      "a": "غبار الهجير",
+      "o": [
+        "غبار الهجير",
+        "السند",
+        "رهين",
+        "عابر سبيل"
+      ],
+      "h": null,
+      "mkind": "audio",
+      "audio": "assets/almajd/whois/audio1/غبار الهجير.mpeg"
+    },
+    {
+      "id": "almajd_whois_img_majd_5",
+      "q": "من هو؟",
+      "a": "حجاج",
+      "o": [
+        "راشد",
+        "دياب",
+        "جمال",
+        "حجاج"
+      ],
+      "h": "مسلسل ترحال",
+      "mkind": "img",
+      "img": "assets/almajd/whois/img_majd/حجاج_مسلسل ترحال.png"
+    },
+    {
+      "id": "almajd_whois_audio2_11",
+      "q": "من هو؟",
+      "a": "دودو والأصدقاء",
+      "o": [
+        "كرزة الصغيره",
+        "ابن ماجد",
+        "دودو والأصدقاء",
+        "الديناصورات الصغيرة"
+      ],
+      "h": null,
+      "mkind": "audio",
+      "audio": "assets/almajd/whois/audio2/دودو والأصدقاء.mpeg"
+    },
+    {
+      "id": "almajd_whois_video1_7",
+      "q": "من هو؟",
+      "a": "ضاقت علي كل الدروب",
+      "o": [
+        "ضاقت علي كل الدروب",
+        "عبيرة المسيره",
+        "انتهت طول المسيره",
+        "احان الوداع"
+      ],
+      "h": null,
+      "mkind": "video",
+      "video": "assets/almajd/whois/video1/ضاقت علي كل الدروب.MP4"
+    },
+    {
+      "id": "almajd_whois_img_set01_new_001_1",
+      "q": "من هو؟",
+      "a": "ايهاب بكير",
+      "o": [
+        "حمدي عباس",
+        "ايهاب بكير",
+        "سيد رياض",
+        "محمد يوسف"
+      ],
+      "mkind": "img",
+      "img": "assets/almajd/whois/img_set01_new/╪º┘è┘ç╪º╪¿ ╪¿┘â┘è╪▒.png"
+    },
+    {
+      "id": "almajd_whois_img_set01_new_002_1",
+      "q": "من هو؟",
+      "a": "حمدي عباس",
+      "o": [
+        "حمدي عباس",
+        "محمد يوسف",
+        "ايهاب بكير",
+        "علي خليفة"
+      ],
+      "mkind": "img",
+      "img": "assets/almajd/whois/img_set01_new/╪¡┘à╪»┘è ╪╣╪¿╪º╪│.png"
+    },
+    {
+      "id": "almajd_whois_img_set01_new_003_1",
+      "q": "من هو؟",
+      "a": "سيد رياض",
+      "o": [
+        "سيد رياض",
+        "هاني عبدالمعتمد",
+        "ايهاب بكير",
+        "ياسر الزنكلوني"
+      ],
+      "mkind": "img",
+      "img": "assets/almajd/whois/img_set01_new/╪│┘è╪» ╪▒┘è╪º╪╢.png"
+    },
+    {
+      "id": "almajd_whois_img_set01_new_004_1",
+      "q": "من هو؟",
+      "a": "علي خليفة",
+      "o": [
+        "هاني عبدالمعتمد",
+        "محمد يوسف",
+        "محمد غزي",
+        "علي خليفة"
+      ],
+      "mkind": "img",
+      "img": "assets/almajd/whois/img_set01_new/╪╣┘ä┘è ╪«┘ä┘è┘ü╪⌐.png"
+    },
+    {
+      "id": "almajd_whois_img_set01_new_005_1",
+      "q": "من هو؟",
+      "a": "محمد غزي",
+      "o": [
+        "محمد مغاوري",
+        "محمد غزي",
+        "ايهاب بكير",
+        "هاني عبدالمعتمد"
+      ],
+      "mkind": "img",
+      "img": "assets/almajd/whois/img_set01_new/┘à╪¡┘à╪» ╪║╪▓┘è.png"
+    },
+    {
+      "id": "almajd_whois_img_set01_new_006_1",
+      "q": "من هو؟",
+      "a": "محمد مغاوري",
+      "o": [
+        "حمدي عباس",
+        "محمد يوسف",
+        "محمد مغاوري",
+        "سيد رياض"
+      ],
+      "mkind": "img",
+      "img": "assets/almajd/whois/img_set01_new/┘à╪¡┘à╪» ┘à╪║╪º┘ê╪▒┘è.png"
+    },
+    {
+      "id": "almajd_whois_img_set01_new_007_1",
+      "q": "من هو؟",
+      "a": "محمد يوسف",
+      "o": [
+        "حمدي عباس",
+        "محمد يوسف",
+        "علي خليفة",
+        "ايهاب بكير"
+      ],
+      "mkind": "img",
+      "img": "assets/almajd/whois/img_set01_new/┘à╪¡┘à╪» ┘è┘ê╪│┘ü.png"
+    },
+    {
+      "id": "almajd_whois_img_set01_new_008_1",
+      "q": "من هو؟",
+      "a": "هاني عبدالمعتمد",
+      "o": [
+        "علي خليفة",
+        "هاني عبدالمعتمد",
+        "محمد مغاوري",
+        "ايهاب بكير"
+      ],
+      "mkind": "img",
+      "img": "assets/almajd/whois/img_set01_new/┘ç╪º┘å┘è ╪╣╪¿╪»╪º┘ä┘à╪╣╪¬┘à╪».png"
+    },
+    {
+      "id": "almajd_whois_img_set01_new_009_1",
+      "q": "من هو؟",
+      "a": "ياسر الزنكلوني",
+      "o": [
+        "محمد يوسف",
+        "محمد غزي",
+        "ياسر الزنكلوني",
+        "محمد مغاوري"
+      ],
+      "mkind": "img",
+      "img": "assets/almajd/whois/img_set01_new/┘è╪º╪│╪▒ ╪º┘ä╪▓┘å┘â┘ä┘ê┘å┘è.png"
+    },
+    {
+      "id": "almajd_whois_audio_set05_program_001_1",
+      "q": "من هو؟",
+      "a": "الحصالة",
+      "o": [
+        "فطين",
+        "عندي كلام",
+        "مدينة الحلويات",
+        "الحصالة"
+      ],
+      "mkind": "audio",
+      "audio": "assets/almajd/whois/audio_set01_program/╪º┘ä╪¡╪╡╪º┘ä╪⌐.mp3"
+    },
+    {
+      "id": "almajd_whois_audio_set05_program_002_1",
+      "q": "من هو؟",
+      "a": "المكتبة",
+      "o": [
+        "الحصالة",
+        "فطين",
+        "مدينة الحلويات",
+        "المكتبة"
+      ],
+      "mkind": "audio",
+      "audio": "assets/almajd/whois/audio_set01_program/╪º┘ä┘à┘â╪¬╪¿╪⌐.mp3"
+    },
+    {
+      "id": "almajd_whois_audio_set05_program_003_1",
+      "q": "من هو؟",
+      "a": "عندي كلام",
+      "o": [
+        "مرجانه",
+        "فطين",
+        "عندي كلام",
+        "المكتبة"
+      ],
+      "mkind": "audio",
+      "audio": "assets/almajd/whois/audio_set01_program/╪╣┘å╪»┘è ┘â┘ä╪º┘à.mp3"
+    },
+    {
+      "id": "almajd_whois_audio_set05_program_004_1",
+      "q": "من هو؟",
+      "a": "فطين",
+      "o": [
+        "مرجانه",
+        "فطين",
+        "الحصالة",
+        "المكتبة"
+      ],
+      "mkind": "audio",
+      "audio": "assets/almajd/whois/audio_set01_program/┘ü╪╖┘è┘å.mp3"
+    },
+    {
+      "id": "almajd_whois_audio_set05_program_005_1",
+      "q": "من هو؟",
+      "a": "مدينة الحلويات",
+      "o": [
+        "فطين",
+        "المكتبة",
+        "عندي كلام",
+        "مدينة الحلويات"
+      ],
+      "mkind": "audio",
+      "audio": "assets/almajd/whois/audio_set01_program/┘à╪»┘è┘å╪⌐ ╪º┘ä╪¡┘ä┘ê┘è╪º╪¬.mp3"
+    },
+    {
+      "id": "almajd_whois_audio_set05_program_006_1",
+      "q": "من هو؟",
+      "a": "مرجانه",
+      "o": [
+        "مرجانه",
+        "الحصالة",
+        "فطين",
+        "مدينة الحلويات"
+      ],
+      "mkind": "audio",
+      "audio": "assets/almajd/whois/audio_set01_program/┘à╪▒╪¼╪º┘å┘ç.mp3"
+    }
+  ],
+  "medium": [
+    {
+      "id": "almajd_whois_img_kids_9",
+      "q": "من هو؟",
+      "a": "بيف وهيركول",
+      "o": [
+        "دودو والاصدقاء",
+        "بيف وهيركول",
+        "مدينة الشاحنات",
+        "المُحقق كمال"
+      ],
+      "h": null,
+      "mkind": "img",
+      "img": "assets/almajd/whois/img_kids/بيف وهيركول.png"
+    },
+    {
+      "id": "almajd_whois_img_majd_10",
+      "q": "من هو؟",
+      "a": "ربيع",
+      "o": [
+        "سالم",
+        "مناع",
+        "فهد",
+        "ربيع"
+      ],
+      "h": "مسلسل اضطراب",
+      "mkind": "img",
+      "img": "assets/almajd/whois/img_majd/ربيع_مسلسل اضطراب.png"
+    },
+    {
+      "id": "almajd_whois_img_kids_5",
+      "q": "من هو؟",
+      "a": "القطارات الآليه",
+      "o": [
+        "نحو الشمس",
+        "بيف وهيركول",
+        "القطارات الآليه",
+        "سفير الطبيعه"
+      ],
+      "h": null,
+      "mkind": "img",
+      "img": "assets/almajd/whois/img_kids/القطارات الآليه.png"
+    },
+    {
+      "id": "almajd_whois_audio1_10",
+      "q": "من هو؟",
+      "a": "طلق ناري",
+      "o": [
+        "طلق ناري",
+        "جواز سفر",
+        "قصر العز",
+        "السند"
+      ],
+      "h": null,
+      "mkind": "audio",
+      "audio": "assets/almajd/whois/audio1/طلق ناري.mpeg"
+    },
+    {
+      "id": "almajd_whois_img_majd_4",
+      "q": "من هو؟",
+      "a": "جمال",
+      "o": [
+        "ريان",
+        "حمود",
+        "سالم",
+        "جمال"
+      ],
+      "h": "مسلسل ترحال",
+      "mkind": "img",
+      "img": "assets/almajd/whois/img_majd/جمال_مسلسل ترحال.png"
+    },
+    {
+      "id": "almajd_whois_img_kids_16",
+      "q": "من هو؟",
+      "a": "كرزة الصغيره",
+      "o": [
+        "طقوس",
+        "كونغ فود",
+        "قرية كواكوا المائية",
+        "كرزة الصغيره"
+      ],
+      "h": null,
+      "mkind": "img",
+      "img": "assets/almajd/whois/img_kids/كرزة الصغيره.png"
+    },
+    {
+      "id": "almajd_whois_img_kids_11",
+      "q": "من هو؟",
+      "a": "دودو والاصدقاء",
+      "o": [
+        "دودو والاصدقاء",
+        "الراوي",
+        "مدينة الاطفال",
+        "الدب الصغير"
+      ],
+      "h": null,
+      "mkind": "img",
+      "img": "assets/almajd/whois/img_kids/دودو والاصدقاء.png"
+    },
+    {
+      "id": "almajd_whois_audio2_5",
+      "q": "من هو؟",
+      "a": "الصياد الجري",
+      "o": [
+        "الديناصورات الصغيرة",
+        "جزيرة دبدوب",
+        "ابن ماجد",
+        "الصياد الجري"
+      ],
+      "h": null,
+      "mkind": "audio",
+      "audio": "assets/almajd/whois/audio2/الصياد الجري.mpeg"
+    },
+    {
+      "id": "almajd_whois_audio1_11",
+      "q": "من هو؟",
+      "a": "عابر سبيل",
+      "o": [
+        "درب النجارين",
+        "ضد معلوم",
+        "رهين",
+        "عابر سبيل"
+      ],
+      "h": null,
+      "mkind": "audio",
+      "audio": "assets/almajd/whois/audio1/عابر سبيل.mpeg"
+    },
+    {
+      "id": "almajd_whois_img_kids_10",
+      "q": "من هو؟",
+      "a": "دمتم سالمين",
+      "o": [
+        "بيف وهيركول",
+        "كرزة الصغيره",
+        "دمتم سالمين",
+        "التؤام المدهش"
+      ],
+      "h": null,
+      "mkind": "img",
+      "img": "assets/almajd/whois/img_kids/دمتم سالمين.png"
+    },
+    {
+      "id": "almajd_whois_audio2_15",
+      "q": "من هو؟",
+      "a": "يوميات مخترع",
+      "o": [
+        "يوميات مخترع",
+        "بامبو وأرنوب",
+        "بامبو وألما",
+        "دودو والأصدقاء"
+      ],
+      "h": null,
+      "mkind": "audio",
+      "audio": "assets/almajd/whois/audio2/يوميات مخترع.mpeg"
+    },
+    {
+      "id": "almajd_whois_img_kids_6",
+      "q": "من هو؟",
+      "a": "المُحقق كمال",
+      "o": [
+        "سفير الطبيعه",
+        "المُحقق كمال",
+        "مدينة الاطفال",
+        "الفريق نون"
+      ],
+      "h": null,
+      "mkind": "img",
+      "img": "assets/almajd/whois/img_kids/المُحقق كمال.png"
+    },
+    {
+      "id": "almajd_whois_audio1_7",
+      "q": "من هو؟",
+      "a": "رهن اعتقال",
+      "o": [
+        "طلق ناري",
+        "ضد معلوم",
+        "رهن اعتقال",
+        "غيوم"
+      ],
+      "h": null,
+      "mkind": "audio",
+      "audio": "assets/almajd/whois/audio1/رهن اعتقال.mpeg"
+    },
+    {
+      "id": "almajd_whois_img_majd_3",
+      "q": "من هو؟",
+      "a": "براء",
+      "o": [
+        "براء",
+        "عوض",
+        "البشير",
+        "سعود"
+      ],
+      "h": "مسلسل السند",
+      "mkind": "img",
+      "img": "assets/almajd/whois/img_majd/براء_مسلسل السند.png"
+    },
+    {
+      "id": "almajd_whois_video1_8",
+      "q": "من هو؟",
+      "a": "عبيرة المسيره",
+      "o": [
+        "دكرينا",
+        "اميرات",
+        "حق باطل",
+        "عبيرة المسيره"
+      ],
+      "h": null,
+      "mkind": "video",
+      "video": "assets/almajd/whois/video1/عبيرة المسيره.MP4"
+    },
+    {
+      "id": "almajd_whois_video1_5",
+      "q": "من هو؟",
+      "a": "خطوة اميره",
+      "o": [
+        "انتهت طول المسيره",
+        "احان الوداع",
+        "خطوة اميره",
+        "اميرات"
+      ],
+      "h": null,
+      "mkind": "video",
+      "video": "assets/almajd/whois/video1/خطوة اميره.MP4"
+    },
+    {
+      "id": "almajd_whois_img_majd_16",
+      "q": "من هو؟",
+      "a": "عوض",
+      "o": [
+        "اواب",
+        "فهد",
+        "فخري",
+        "عوض"
+      ],
+      "h": "مسلسل اضطراب",
+      "mkind": "img",
+      "img": "assets/almajd/whois/img_majd/عوض_مسلسل اضطراب.png"
+    },
+    {
+      "id": "almajd_whois_img_majd_20",
+      "q": "من هو؟",
+      "a": "مناع",
+      "o": [
+        "سعود",
+        "مناع",
+        "درديري",
+        "براء"
+      ],
+      "h": "مسلسل اضطراب",
+      "mkind": "img",
+      "img": "assets/almajd/whois/img_majd/مناع_مسلسل اضطراب.png"
+    },
+    {
+      "id": "almajd_whois_img_majd_15",
+      "q": "من هو؟",
+      "a": "ضاحي",
+      "o": [
+        "حجاج",
+        "ضاحي",
+        "براء",
+        "مأمون"
+      ],
+      "h": "مسلسل اضطراب",
+      "mkind": "img",
+      "img": "assets/almajd/whois/img_majd/ضاحي_مسلسل اضطراب.png"
+    },
+    {
+      "id": "almajd_whois_video1_9",
+      "q": "من هو؟",
+      "a": "موطن الحب",
+      "o": [
+        "ضاقت علي كل الدروب",
+        "موطن الحب",
+        "عبيرة المسيره",
+        "حق باطل"
+      ],
+      "h": null,
+      "mkind": "video",
+      "video": "assets/almajd/whois/video1/موطن الحب.MP4"
+    },
+    {
+      "id": "almajd_whois_audio2_7",
+      "q": "من هو؟",
+      "a": "بامبو وألما",
+      "o": [
+        "بامبو وألما",
+        "جزيرة دبدوب",
+        "ابن ماجد",
+        "يوميات مخترع"
+      ],
+      "h": null,
+      "mkind": "audio",
+      "audio": "assets/almajd/whois/audio2/بامبو وألما.mpeg"
+    },
+    {
+      "id": "almajd_whois_audio1_13",
+      "q": "من هو؟",
+      "a": "غيوم",
+      "o": [
+        "هدنة",
+        "غيوم",
+        "قصر العز",
+        "رهن اعتقال"
+      ],
+      "h": null,
+      "mkind": "audio",
+      "audio": "assets/almajd/whois/audio1/غيوم.mpeg"
+    },
+    {
+      "id": "almajd_whois_img_kids_20",
+      "q": "من هو؟",
+      "a": "نحو الشمس",
+      "o": [
+        "طقوس",
+        "سفير الطبيعه",
+        "نحو الشمس",
+        "الدب الصغير"
+      ],
+      "h": null,
+      "mkind": "img",
+      "img": "assets/almajd/whois/img_kids/نحو الشمس.png"
+    },
+    {
+      "id": "almajd_whois_audio1_9",
+      "q": "من هو؟",
+      "a": "ضد معلوم",
+      "o": [
+        "السند",
+        "ضد معلوم",
+        "عابر سبيل",
+        "رهن اعتقال"
+      ],
+      "h": null,
+      "mkind": "audio",
+      "audio": "assets/almajd/whois/audio1/ضد معلوم.mpeg"
+    },
+    {
+      "id": "almajd_whois_audio2_3",
+      "q": "من هو؟",
+      "a": "الديناصورات الصغيرة",
+      "o": [
+        "الراوي",
+        "دودو والأصدقاء",
+        "الديناصورات الصغيرة",
+        "كرزة الصغيره"
+      ],
+      "h": null,
+      "mkind": "audio",
+      "audio": "assets/almajd/whois/audio2/الديناصورات الصغيرة.mpeg"
+    },
+    {
+      "id": "almajd_whois_audio1_14",
+      "q": "من هو؟",
+      "a": "قصر العز",
+      "o": [
+        "قصر العز",
+        "عابر سبيل",
+        "الورشة",
+        "ضد معلوم"
+      ],
+      "h": null,
+      "mkind": "audio",
+      "audio": "assets/almajd/whois/audio1/قصر العز.mpeg"
+    },
+    {
+      "id": "almajd_whois_img_majd_17",
+      "q": "من هو؟",
+      "a": "فخري",
+      "o": [
+        "دياب",
+        "عوض",
+        "سبع",
+        "فخري"
+      ],
+      "h": "مسلسل ترحال",
+      "mkind": "img",
+      "img": "assets/almajd/whois/img_majd/فخري_مسلسل ترحال.png"
+    },
+    {
+      "id": "almajd_whois_img_set02_saudi_001_1",
+      "q": "من هو؟",
+      "a": "بدر المرزوقي",
+      "o": [
+        "حسين الحسين",
+        "يوسف الدامغ",
+        "بدر المرزوقي",
+        "خالد الوابلي"
+      ],
+      "mkind": "img",
+      "img": "assets/almajd/whois/img_set02_saudi/╪¿╪»╪▒ ╪º┘ä┘à╪▒╪▓┘ê┘é┘è.png"
+    },
+    {
+      "id": "almajd_whois_img_set02_saudi_002_1",
+      "q": "من هو؟",
+      "a": "تميم المعتوق",
+      "o": [
+        "صلاح العمري",
+        "تميم المعتوق",
+        "سليمان البريك",
+        "عدي الهزاع"
+      ],
+      "mkind": "img",
+      "img": "assets/almajd/whois/img_set02_saudi/╪¬┘à┘è┘à ╪º┘ä┘à╪╣╪¬┘ê┘é.png"
+    },
+    {
+      "id": "almajd_whois_img_set02_saudi_003_1",
+      "q": "من هو؟",
+      "a": "حسين الحسين",
+      "o": [
+        "عبدالوهاب الرسي",
+        "سليمان الزيد",
+        "حسين الحسين",
+        "سيف الزين"
+      ],
+      "mkind": "img",
+      "img": "assets/almajd/whois/img_set02_saudi/╪¡╪│┘è┘å ╪º┘ä╪¡╪│┘è┘å.png"
+    },
+    {
+      "id": "almajd_whois_img_set02_saudi_004_1",
+      "q": "من هو؟",
+      "a": "خالد الوابلي",
+      "o": [
+        "سليمان الزيد",
+        "خالد الوابلي",
+        "مشعل الفياض",
+        "وائل غازي"
+      ],
+      "mkind": "img",
+      "img": "assets/almajd/whois/img_set02_saudi/╪«╪º┘ä╪» ╪º┘ä┘ê╪º╪¿┘ä┘è.png"
+    },
+    {
+      "id": "almajd_whois_img_set02_saudi_005_1",
+      "q": "من هو؟",
+      "a": "سليمان البريك",
+      "o": [
+        "عدي الهزاع",
+        "سليمان البريك",
+        "وائل غازي",
+        "عبدالصمد الشتوي"
+      ],
+      "mkind": "img",
+      "img": "assets/almajd/whois/img_set02_saudi/╪│┘ä┘è┘à╪º┘å ╪º┘ä╪¿╪▒┘è┘â.png"
+    },
+    {
+      "id": "almajd_whois_img_set02_saudi_006_1",
+      "q": "من هو؟",
+      "a": "سليمان الحسون",
+      "o": [
+        "عبدالله المطيري",
+        "تميم المعتوق",
+        "صلاح العمري",
+        "سليمان الحسون"
+      ],
+      "mkind": "img",
+      "img": "assets/almajd/whois/img_set02_saudi/╪│┘ä┘è┘à╪º┘å ╪º┘ä╪¡╪│┘ê┘å.png"
+    },
+    {
+      "id": "almajd_whois_img_set02_saudi_007_1",
+      "q": "من هو؟",
+      "a": "سليمان الزيد",
+      "o": [
+        "سليمان الزيد",
+        "محمد",
+        "سيف الزين",
+        "يوسف الدامغ"
+      ],
+      "mkind": "img",
+      "img": "assets/almajd/whois/img_set02_saudi/╪│┘ä┘è┘à╪º┘å ╪º┘ä╪▓┘è╪».png"
+    },
+    {
+      "id": "almajd_whois_img_set02_saudi_008_1",
+      "q": "من هو؟",
+      "a": "سيف الزين",
+      "o": [
+        "غنيم الغنيم",
+        "عدي الهزاع",
+        "سيف الزين",
+        "وائل غازي"
+      ],
+      "mkind": "img",
+      "img": "assets/almajd/whois/img_set02_saudi/╪│┘è┘ü ╪º┘ä╪▓┘è┘å.png"
+    },
+    {
+      "id": "almajd_whois_img_set02_saudi_009_1",
+      "q": "من هو؟",
+      "a": "صلاح العمري",
+      "o": [
+        "سيف الزين",
+        "محمد الغامدي",
+        "عبدالصمد الشتوي",
+        "صلاح العمري"
+      ],
+      "mkind": "img",
+      "img": "assets/almajd/whois/img_set02_saudi/╪╡┘ä╪º╪¡ ╪º┘ä╪╣┘à╪▒┘è.png"
+    },
+    {
+      "id": "almajd_whois_img_set02_saudi_010_1",
+      "q": "من هو؟",
+      "a": "عبدالصمد الشتوي",
+      "o": [
+        "سيف الزين",
+        "سليمان البريك",
+        "عبدالوهاب الرسي",
+        "عبدالصمد الشتوي"
+      ],
+      "mkind": "img",
+      "img": "assets/almajd/whois/img_set02_saudi/╪╣╪¿╪»╪º┘ä╪╡┘à╪» ╪º┘ä╪┤╪¬┘ê┘è.png"
+    },
+    {
+      "id": "almajd_whois_img_set02_saudi_011_1",
+      "q": "من هو؟",
+      "a": "عبدالله الغنيم",
+      "o": [
+        "خالد الوابلي",
+        "عبدالله الغنيم",
+        "وائل غازي",
+        "سليمان البريك"
+      ],
+      "mkind": "img",
+      "img": "assets/almajd/whois/img_set02_saudi/╪╣╪¿╪»╪º┘ä┘ä┘ç ╪º┘ä╪║┘å┘è┘à.png"
+    },
+    {
+      "id": "almajd_whois_img_set02_saudi_012_1",
+      "q": "من هو؟",
+      "a": "عبدالله المطيري",
+      "o": [
+        "مشعل الفياض",
+        "حسين الحسين",
+        "عدي الهزاع",
+        "عبدالله المطيري"
+      ],
+      "mkind": "img",
+      "img": "assets/almajd/whois/img_set02_saudi/╪╣╪¿╪»╪º┘ä┘ä┘ç ╪º┘ä┘à╪╖┘è╪▒┘è.png"
+    },
+    {
+      "id": "almajd_whois_img_set02_saudi_013_1",
+      "q": "من هو؟",
+      "a": "عبدالوهاب الرسي",
+      "o": [
+        "صلاح العمري",
+        "عبدالوهاب الرسي",
+        "محمد الغامدي",
+        "محمد الباهلي"
+      ],
+      "mkind": "img",
+      "img": "assets/almajd/whois/img_set02_saudi/╪╣╪¿╪»╪º┘ä┘ê┘ç╪º╪¿ ╪º┘ä╪▒╪│┘è.png"
+    },
+    {
+      "id": "almajd_whois_img_set02_saudi_014_1",
+      "q": "من هو؟",
+      "a": "عدي الهزاع",
+      "o": [
+        "عدي الهزاع",
+        "محمد الغامدي",
+        "ياسر العباس",
+        "صلاح العمري"
+      ],
+      "mkind": "img",
+      "img": "assets/almajd/whois/img_set02_saudi/╪╣╪»┘è ╪º┘ä┘ç╪▓╪º╪╣.png"
+    },
+    {
+      "id": "almajd_whois_img_set02_saudi_015_1",
+      "q": "من هو؟",
+      "a": "عمر الدغيري",
+      "o": [
+        "عمر الدغيري",
+        "سليمان الحسون",
+        "غنيم الغنيم",
+        "عدي الهزاع"
+      ],
+      "mkind": "img",
+      "img": "assets/almajd/whois/img_set02_saudi/╪╣┘à╪▒ ╪º┘ä╪»╪║┘è╪▒┘è.png"
+    },
+    {
+      "id": "almajd_whois_img_set02_saudi_016_1",
+      "q": "من هو؟",
+      "a": "غنيم الغنيم",
+      "o": [
+        "سليمان الحسون",
+        "محمد الباهلي",
+        "غنيم الغنيم",
+        "خالد الوابلي"
+      ],
+      "mkind": "img",
+      "img": "assets/almajd/whois/img_set02_saudi/╪║┘å┘è┘à ╪º┘ä╪║┘å┘è┘à.png"
+    },
+    {
+      "id": "almajd_whois_img_set02_saudi_017_1",
+      "q": "من هو؟",
+      "a": "فهد المطيري",
+      "o": [
+        "فهد المطيري",
+        "عبدالله المطيري",
+        "سليمان الحسون",
+        "سليمان البريك"
+      ],
+      "mkind": "img",
+      "img": "assets/almajd/whois/img_set02_saudi/┘ü┘ç╪» ╪º┘ä┘à╪╖┘è╪▒┘è.png"
+    },
+    {
+      "id": "almajd_whois_img_set02_saudi_018_1",
+      "q": "من هو؟",
+      "a": "محمد الباهلي",
+      "o": [
+        "محمد الباهلي",
+        "غنيم الغنيم",
+        "بدر المرزوقي",
+        "خالد الوابلي"
+      ],
+      "mkind": "img",
+      "img": "assets/almajd/whois/img_set02_saudi/┘à╪¡┘à╪» ╪º┘ä╪¿╪º┘ç┘ä┘è.png"
+    },
+    {
+      "id": "almajd_whois_img_set02_saudi_019_1",
+      "q": "من هو؟",
+      "a": "محمد الغامدي",
+      "o": [
+        "محمد",
+        "سيف الزين",
+        "محمد الغامدي",
+        "تميم المعتوق"
+      ],
+      "mkind": "img",
+      "img": "assets/almajd/whois/img_set02_saudi/┘à╪¡┘à╪» ╪º┘ä╪║╪º┘à╪»┘è.png"
+    },
+    {
+      "id": "almajd_whois_img_set02_saudi_020_1",
+      "q": "من هو؟",
+      "a": "محمد",
+      "o": [
+        "حسين الحسين",
+        "محمد",
+        "سليمان البريك",
+        "محمد الباهلي"
+      ],
+      "mkind": "img",
+      "img": "assets/almajd/whois/img_set02_saudi/┘à╪¡┘à╪».png"
+    },
+    {
+      "id": "almajd_whois_img_set02_saudi_021_1",
+      "q": "من هو؟",
+      "a": "مشعل الفياض",
+      "o": [
+        "سليمان الحسون",
+        "صلاح العمري",
+        "محمد الباهلي",
+        "مشعل الفياض"
+      ],
+      "mkind": "img",
+      "img": "assets/almajd/whois/img_set02_saudi/┘à╪┤╪╣┘ä ╪º┘ä┘ü┘è╪º╪╢.png"
+    },
+    {
+      "id": "almajd_whois_img_set02_saudi_022_1",
+      "q": "من هو؟",
+      "a": "وائل غازي",
+      "o": [
+        "يوسف الدامغ",
+        "وائل غازي",
+        "عبدالصمد الشتوي",
+        "عبدالوهاب الرسي"
+      ],
+      "mkind": "img",
+      "img": "assets/almajd/whois/img_set02_saudi/┘ê╪º╪ª┘ä ╪║╪º╪▓┘è.png"
+    },
+    {
+      "id": "almajd_whois_img_set02_saudi_023_1",
+      "q": "من هو؟",
+      "a": "ياسر العباس",
+      "o": [
+        "سيف الزين",
+        "ياسر العباس",
+        "خالد الوابلي",
+        "حسين الحسين"
+      ],
+      "mkind": "img",
+      "img": "assets/almajd/whois/img_set02_saudi/┘è╪º╪│╪▒ ╪º┘ä╪╣╪¿╪º╪│.png"
+    },
+    {
+      "id": "almajd_whois_img_set02_saudi_024_1",
+      "q": "من هو؟",
+      "a": "يوسف الدامغ",
+      "o": [
+        "سيف الزين",
+        "يوسف الدامغ",
+        "بدر المرزوقي",
+        "محمد الغامدي"
+      ],
+      "mkind": "img",
+      "img": "assets/almajd/whois/img_set02_saudi/┘è┘ê╪│┘ü ╪º┘ä╪»╪º┘à╪║.png"
+    },
+    {
+      "id": "almajd_whois_img_set03_series_001_1",
+      "q": "من هو؟",
+      "a": "ابراهيم",
+      "o": [
+        "حسام",
+        "ابراهيم",
+        "عصام",
+        "جعفر"
+      ],
+      "mkind": "img",
+      "h": "مارستان",
+      "img": "assets/almajd/whois/img_set03_series/╪º╪¿╪▒╪º┘ç┘è┘à_┘à╪º╪▒╪│╪¬╪º┘å.png"
+    },
+    {
+      "id": "almajd_whois_img_set03_series_002_1",
+      "q": "من هو؟",
+      "a": "باسم",
+      "o": [
+        "فؤاد",
+        "باسم",
+        "سلامة",
+        "وهدان"
+      ],
+      "mkind": "img",
+      "h": "درب النجارين",
+      "img": "assets/almajd/whois/img_set03_series/╪¿╪º╪│┘à_╪»╪▒╪¿ ╪º┘ä┘å╪¼╪º╪▒┘è┘å.png"
+    },
+    {
+      "id": "almajd_whois_img_set03_series_003_1",
+      "q": "من هو؟",
+      "a": "باشندي",
+      "o": [
+        "باشندي",
+        "مختار",
+        "عماد",
+        "هشام"
+      ],
+      "mkind": "img",
+      "h": "نجع السعادة",
+      "img": "assets/almajd/whois/img_set03_series/╪¿╪º╪┤┘å╪»┘è_┘å╪¼╪╣ ╪º┘ä╪│╪╣╪º╪»╪⌐.png"
+    },
+    {
+      "id": "almajd_whois_img_set03_series_004_1",
+      "q": "من هو؟",
+      "a": "جعفر",
+      "o": [
+        "كريم",
+        "مسامح",
+        "مختار",
+        "جعفر"
+      ],
+      "mkind": "img",
+      "h": "مسلسل مارستان",
+      "img": "assets/almajd/whois/img_set03_series/╪¼╪╣┘ü╪▒_┘à╪│┘ä╪│┘ä ┘à╪º╪▒╪│╪¬╪º┘å.png"
+    },
+    {
+      "id": "almajd_whois_img_set03_series_005_1",
+      "q": "من هو؟",
+      "a": "حرفوش",
+      "o": [
+        "جعفر",
+        "حرفوش",
+        "خضر",
+        "مجدي"
+      ],
+      "mkind": "img",
+      "h": "حي الجماليه",
+      "img": "assets/almajd/whois/img_set03_series/╪¡╪▒┘ü┘ê╪┤_╪¡┘è ╪º┘ä╪¼┘à╪º┘ä┘è┘ç.png"
+    },
+    {
+      "id": "almajd_whois_img_set03_series_006_1",
+      "q": "من هو؟",
+      "a": "حسام",
+      "o": [
+        "رشوان",
+        "ممدوح",
+        "سفروت",
+        "حسام"
+      ],
+      "mkind": "img",
+      "h": "درب النجارين",
+      "img": "assets/almajd/whois/img_set03_series/╪¡╪│╪º┘à_╪»╪▒╪¿ ╪º┘ä┘å╪¼╪º╪▒┘è┘å.png"
+    },
+    {
+      "id": "almajd_whois_img_set03_series_007_1",
+      "q": "من هو؟",
+      "a": "حسن",
+      "o": [
+        "عماد",
+        "نعيم",
+        "حرفوش",
+        "حسن"
+      ],
+      "mkind": "img",
+      "h": "مارستان",
+      "img": "assets/almajd/whois/img_set03_series/╪¡╪│┘å_┘à╪º╪▒╪│╪¬╪º┘å.png"
+    },
+    {
+      "id": "almajd_whois_img_set03_series_008_1",
+      "q": "من هو؟",
+      "a": "خضر",
+      "o": [
+        "حسام",
+        "خضر",
+        "جعفر",
+        "ابراهيم"
+      ],
+      "mkind": "img",
+      "h": "نجع السعادة",
+      "img": "assets/almajd/whois/img_set03_series/╪«╪╢╪▒_┘å╪¼╪╣ ╪º┘ä╪│╪╣╪º╪»╪⌐.png"
+    },
+    {
+      "id": "almajd_whois_img_set03_series_009_1",
+      "q": "من هو؟",
+      "a": "دحروج",
+      "o": [
+        "هشام",
+        "سلامة",
+        "وهدان",
+        "دحروج"
+      ],
+      "mkind": "img",
+      "h": "حي الجمالية",
+      "img": "assets/almajd/whois/img_set03_series/╪»╪¡╪▒┘ê╪¼_╪¡┘è ╪º┘ä╪¼┘à╪º┘ä┘è╪⌐.png"
+    },
+    {
+      "id": "almajd_whois_img_set03_series_010_1",
+      "q": "من هو؟",
+      "a": "رشوان",
+      "o": [
+        "مجاهد",
+        "غضنفر",
+        "ابراهيم",
+        "رشوان"
+      ],
+      "mkind": "img",
+      "h": "مسلسل مارستان",
+      "img": "assets/almajd/whois/img_set03_series/╪▒╪┤┘ê╪º┘å_┘à╪│┘ä╪│┘ä ┘à╪º╪▒╪│╪¬╪º┘å.png"
+    },
+    {
+      "id": "almajd_whois_img_set03_series_011_1",
+      "q": "من هو؟",
+      "a": "رنجة",
+      "o": [
+        "رشوان",
+        "رنجة",
+        "وهدان",
+        "سفروت"
+      ],
+      "mkind": "img",
+      "h": "درب النجارين",
+      "img": "assets/almajd/whois/img_set03_series/╪▒┘å╪¼╪⌐_╪»╪▒╪¿ ╪º┘ä┘å╪¼╪º╪▒┘è┘å.png"
+    },
+    {
+      "id": "almajd_whois_img_set03_series_012_1",
+      "q": "من هو؟",
+      "a": "زين",
+      "o": [
+        "زين",
+        "هشام",
+        "جعفر",
+        "فتحي"
+      ],
+      "mkind": "img",
+      "h": "درب النجارين",
+      "img": "assets/almajd/whois/img_set03_series/╪▓┘è┘å_╪»╪▒╪¿ ╪º┘ä┘å╪¼╪º╪▒┘è┘å.png"
+    },
+    {
+      "id": "almajd_whois_img_set03_series_013_1",
+      "q": "من هو؟",
+      "a": "سامح",
+      "o": [
+        "حرفوش",
+        "عماد",
+        "زين",
+        "سامح"
+      ],
+      "mkind": "img",
+      "h": "درب النجارين",
+      "img": "assets/almajd/whois/img_set03_series/╪│╪º┘à╪¡_╪»╪▒╪¿ ╪º┘ä┘å╪¼╪º╪▒┘è┘å.png"
+    },
+    {
+      "id": "almajd_whois_img_set03_series_014_1",
+      "q": "من هو؟",
+      "a": "سفروت",
+      "o": [
+        "سفروت",
+        "باشندي",
+        "حسام",
+        "مختار"
+      ],
+      "mkind": "img",
+      "h": "نجع السعادة",
+      "img": "assets/almajd/whois/img_set03_series/╪│┘ü╪▒┘ê╪¬_┘å╪¼╪╣ ╪º┘ä╪│╪╣╪º╪»╪⌐.png"
+    },
+    {
+      "id": "almajd_whois_img_set03_series_015_1",
+      "q": "من هو؟",
+      "a": "سلامة",
+      "o": [
+        "غضنفر",
+        "عماد",
+        "فتحي",
+        "سلامة"
+      ],
+      "mkind": "img",
+      "h": "مارستان",
+      "img": "assets/almajd/whois/img_set03_series/╪│┘ä╪º┘à╪⌐_┘à╪º╪▒╪│╪¬╪º┘å.png"
+    },
+    {
+      "id": "almajd_whois_img_set03_series_016_1",
+      "q": "من هو؟",
+      "a": "عصام",
+      "o": [
+        "حرفوش",
+        "عصام",
+        "فتحي",
+        "نعيم"
+      ],
+      "mkind": "img",
+      "h": "درب النجارين",
+      "img": "assets/almajd/whois/img_set03_series/╪╣╪╡╪º┘à_╪»╪▒╪¿ ╪º┘ä┘å╪¼╪º╪▒┘è┘å.png"
+    },
+    {
+      "id": "almajd_whois_img_set03_series_017_1",
+      "q": "من هو؟",
+      "a": "عماد",
+      "o": [
+        "غضنفر",
+        "حرفوش",
+        "عماد",
+        "سفروت"
+      ],
+      "mkind": "img",
+      "h": "درب النجارين",
+      "img": "assets/almajd/whois/img_set03_series/╪╣┘à╪º╪»_╪»╪▒╪¿ ╪º┘ä┘å╪¼╪º╪▒┘è┘å.png"
+    },
+    {
+      "id": "almajd_whois_img_set03_series_018_1",
+      "q": "من هو؟",
+      "a": "غضنفر",
+      "o": [
+        "عصام",
+        "فادي",
+        "غضنفر",
+        "مانولي"
+      ],
+      "mkind": "img",
+      "h": "حي الجمالية",
+      "img": "assets/almajd/whois/img_set03_series/╪║╪╢┘å┘ü╪▒_╪¡┘è ╪º┘ä╪¼┘à╪º┘ä┘è╪⌐.png"
+    },
+    {
+      "id": "almajd_whois_img_set03_series_019_1",
+      "q": "من هو؟",
+      "a": "فؤاد",
+      "o": [
+        "حسن",
+        "ابراهيم",
+        "فؤاد",
+        "فاروق"
+      ],
+      "mkind": "img",
+      "h": "درب النجارين",
+      "img": "assets/almajd/whois/img_set03_series/┘ü╪ñ╪º╪»_╪»╪▒╪¿ ╪º┘ä┘å╪¼╪º╪▒┘è┘å.png"
+    },
+    {
+      "id": "almajd_whois_img_set03_series_020_1",
+      "q": "من هو؟",
+      "a": "فادي",
+      "o": [
+        "رشوان",
+        "حسن",
+        "فادي",
+        "غضنفر"
+      ],
+      "mkind": "img",
+      "h": "درب النجارين",
+      "img": "assets/almajd/whois/img_set03_series/┘ü╪º╪»┘è_╪»╪▒╪¿ ╪º┘ä┘å╪¼╪º╪▒┘è┘å.png"
+    },
+    {
+      "id": "almajd_whois_img_set03_series_021_1",
+      "q": "من هو؟",
+      "a": "فاروق",
+      "o": [
+        "عماد",
+        "فهيم",
+        "سفروت",
+        "فاروق"
+      ],
+      "mkind": "img",
+      "h": "درب النجارين",
+      "img": "assets/almajd/whois/img_set03_series/┘ü╪º╪▒┘ê┘é_╪»╪▒╪¿ ╪º┘ä┘å╪¼╪º╪▒┘è┘å.png"
+    },
+    {
+      "id": "almajd_whois_img_set03_series_022_1",
+      "q": "من هو؟",
+      "a": "فتحي",
+      "o": [
+        "غضنفر",
+        "مسامح",
+        "فتحي",
+        "حسام"
+      ],
+      "mkind": "img",
+      "h": "درب النجارين",
+      "img": "assets/almajd/whois/img_set03_series/┘ü╪¬╪¡┘è_╪»╪▒╪¿ ╪º┘ä┘å╪¼╪º╪▒┘è┘å.png"
+    },
+    {
+      "id": "almajd_whois_img_set03_series_023_1",
+      "q": "من هو؟",
+      "a": "فهيم",
+      "o": [
+        "دحروج",
+        "عماد",
+        "رنجة",
+        "فهيم"
+      ],
+      "mkind": "img",
+      "h": "نجع السعادة",
+      "img": "assets/almajd/whois/img_set03_series/┘ü┘ç┘è┘à_┘å╪¼╪╣ ╪º┘ä╪│╪╣╪º╪»╪⌐.png"
+    },
+    {
+      "id": "almajd_whois_img_set03_series_024_1",
+      "q": "من هو؟",
+      "a": "كريم",
+      "o": [
+        "كريم",
+        "ابراهيم",
+        "حرفوش",
+        "خضر"
+      ],
+      "mkind": "img",
+      "h": "درب النجارين",
+      "img": "assets/almajd/whois/img_set03_series/┘â╪▒┘è┘à_╪»╪▒╪¿ ╪º┘ä┘å╪¼╪º╪▒┘è┘å.png"
+    },
+    {
+      "id": "almajd_whois_img_set03_series_025_1",
+      "q": "من هو؟",
+      "a": "مانولي",
+      "o": [
+        "مسامح",
+        "مانولي",
+        "كريم",
+        "رشوان"
+      ],
+      "mkind": "img",
+      "h": "مسلسل مارستان",
+      "img": "assets/almajd/whois/img_set03_series/┘à╪º┘å┘ê┘ä┘è_┘à╪│┘ä╪│┘ä ┘à╪º╪▒╪│╪¬╪º┘å.png"
+    },
+    {
+      "id": "almajd_whois_img_set03_series_026_1",
+      "q": "من هو؟",
+      "a": "مجاهد",
+      "o": [
+        "مجاهد",
+        "كريم",
+        "فهيم",
+        "باشندي"
+      ],
+      "mkind": "img",
+      "h": "درب النجارين",
+      "img": "assets/almajd/whois/img_set03_series/┘à╪¼╪º┘ç╪»_╪»╪▒╪¿ ╪º┘ä┘å╪¼╪º╪▒┘è┘å.png"
+    },
+    {
+      "id": "almajd_whois_img_set03_series_027_1",
+      "q": "من هو؟",
+      "a": "مجدي",
+      "o": [
+        "مجدي",
+        "مختار",
+        "حسن",
+        "فهيم"
+      ],
+      "mkind": "img",
+      "h": "مارستان",
+      "img": "assets/almajd/whois/img_set03_series/┘à╪¼╪»┘è_┘à╪º╪▒╪│╪¬╪º┘å.png"
+    },
+    {
+      "id": "almajd_whois_img_set03_series_028_1",
+      "q": "من هو؟",
+      "a": "مختار",
+      "o": [
+        "زين",
+        "مختار",
+        "باسم",
+        "مجدي"
+      ],
+      "mkind": "img",
+      "h": "درب النجارين",
+      "img": "assets/almajd/whois/img_set03_series/┘à╪«╪¬╪º╪▒_╪»╪▒╪¿ ╪º┘ä┘å╪¼╪º╪▒┘è┘å.png"
+    },
+    {
+      "id": "almajd_whois_img_set03_series_029_1",
+      "q": "من هو؟",
+      "a": "مسامح",
+      "o": [
+        "مسامح",
+        "مجدي",
+        "غضنفر",
+        "عصام"
+      ],
+      "mkind": "img",
+      "h": "درب النجارين",
+      "img": "assets/almajd/whois/img_set03_series/┘à╪│╪º┘à╪¡_╪»╪▒╪¿ ╪º┘ä┘å╪¼╪º╪▒┘è┘å.png"
+    },
+    {
+      "id": "almajd_whois_img_set03_series_030_1",
+      "q": "من هو؟",
+      "a": "ممدوح",
+      "o": [
+        "هشام",
+        "ممدوح",
+        "مانولي",
+        "باشندي"
+      ],
+      "mkind": "img",
+      "h": "درب النجارين",
+      "img": "assets/almajd/whois/img_set03_series/┘à┘à╪»┘ê╪¡_╪»╪▒╪¿ ╪º┘ä┘å╪¼╪º╪▒┘è┘å.png"
+    },
+    {
+      "id": "almajd_whois_img_set03_series_031_1",
+      "q": "من هو؟",
+      "a": "نعيم",
+      "o": [
+        "نعيم",
+        "سلامة",
+        "فهيم",
+        "فادي"
+      ],
+      "mkind": "img",
+      "h": "درب النجارين",
+      "img": "assets/almajd/whois/img_set03_series/┘å╪╣┘è┘à_╪»╪▒╪¿ ╪º┘ä┘å╪¼╪º╪▒┘è┘å.png"
+    },
+    {
+      "id": "almajd_whois_img_set03_series_032_1",
+      "q": "من هو؟",
+      "a": "هشام",
+      "o": [
+        "هشام",
+        "غضنفر",
+        "فتحي",
+        "مجاهد"
+      ],
+      "mkind": "img",
+      "h": "درب النجارين",
+      "img": "assets/almajd/whois/img_set03_series/┘ç╪┤╪º┘à_╪»╪▒╪¿ ╪º┘ä┘å╪¼╪º╪▒┘è┘å.png"
+    },
+    {
+      "id": "almajd_whois_img_set03_series_033_1",
+      "q": "من هو؟",
+      "a": "وهدان",
+      "o": [
+        "باسم",
+        "وهدان",
+        "فتحي",
+        "مجاهد"
+      ],
+      "mkind": "img",
+      "h": "حي الجمالية",
+      "img": "assets/almajd/whois/img_set03_series/┘ê┘ç╪»╪º┘å_╪¡┘è ╪º┘ä╪¼┘à╪º┘ä┘è╪⌐.png"
+    },
+    {
+      "id": "almajd_whois_audio_set06_serial_001_1",
+      "q": "من هو؟",
+      "a": "اضطراب",
+      "o": [
+        "ترحال",
+        "رفعت الجلسة",
+        "ظروف مغلقه",
+        "اضطراب"
+      ],
+      "mkind": "audio",
+      "audio": "assets/almajd/whois/audio_set02_serial/╪º╪╢╪╖╪▒╪º╪¿.mp3"
+    },
+    {
+      "id": "almajd_whois_audio_set06_serial_002_1",
+      "q": "من هو؟",
+      "a": "الاخطبوط",
+      "o": [
+        "غرباء يدقون الباب",
+        "مارستان",
+        "الاخطبوط",
+        "رماد"
+      ],
+      "mkind": "audio",
+      "audio": "assets/almajd/whois/audio_set02_serial/╪º┘ä╪º╪«╪╖╪¿┘ê╪╖.mp3"
+    },
+    {
+      "id": "almajd_whois_audio_set06_serial_003_1",
+      "q": "من هو؟",
+      "a": "البر سلف",
+      "o": [
+        "البر سلف",
+        "وادي الرحى",
+        "ثمن الوهم",
+        "رفعت الجلسة"
+      ],
+      "mkind": "audio",
+      "audio": "assets/almajd/whois/audio_set02_serial/╪º┘ä╪¿╪▒ ╪│┘ä┘ü.mp3"
+    },
+    {
+      "id": "almajd_whois_audio_set06_serial_004_1",
+      "q": "من هو؟",
+      "a": "الخطة الاخيرة",
+      "o": [
+        "الخطة الاخيرة",
+        "مارستان",
+        "رماد",
+        "الزائر"
+      ],
+      "mkind": "audio",
+      "audio": "assets/almajd/whois/audio_set02_serial/╪º┘ä╪«╪╖╪⌐ ╪º┘ä╪º╪«┘è╪▒╪⌐.mp3"
+    },
+    {
+      "id": "almajd_whois_audio_set06_serial_005_1",
+      "q": "من هو؟",
+      "a": "الزائر",
+      "o": [
+        "ثمن الوهم",
+        "الزائر",
+        "قوافل",
+        "لغز بابل"
+      ],
+      "mkind": "audio",
+      "audio": "assets/almajd/whois/audio_set02_serial/╪º┘ä╪▓╪º╪ª╪▒.mp3"
+    },
+    {
+      "id": "almajd_whois_audio_set06_serial_006_1",
+      "q": "من هو؟",
+      "a": "الطريد",
+      "o": [
+        "ظروف مغلقه",
+        "رفعت الجلسة",
+        "الطريد",
+        "ترحال"
+      ],
+      "mkind": "audio",
+      "audio": "assets/almajd/whois/audio_set02_serial/╪º┘ä╪╖╪▒┘è╪».mp3"
+    },
+    {
+      "id": "almajd_whois_audio_set06_serial_007_1",
+      "q": "من هو؟",
+      "a": "الفيلا",
+      "o": [
+        "ثمن الوهم",
+        "الزائر",
+        "الفيلا",
+        "مارستان"
+      ],
+      "mkind": "audio",
+      "audio": "assets/almajd/whois/audio_set02_serial/╪º┘ä┘ü┘è┘ä╪º.mp3"
+    },
+    {
+      "id": "almajd_whois_audio_set06_serial_008_1",
+      "q": "من هو؟",
+      "a": "المحمية",
+      "o": [
+        "المحمية",
+        "قوافل",
+        "الخطة الاخيرة",
+        "الزائر"
+      ],
+      "mkind": "audio",
+      "audio": "assets/almajd/whois/audio_set02_serial/╪º┘ä┘à╪¡┘à┘è╪⌐.mp3"
+    },
+    {
+      "id": "almajd_whois_audio_set06_serial_009_1",
+      "q": "من هو؟",
+      "a": "ترحال",
+      "o": [
+        "وادي الرحى",
+        "ترحال",
+        "قوافل",
+        "غيبوبة"
+      ],
+      "mkind": "audio",
+      "audio": "assets/almajd/whois/audio_set02_serial/╪¬╪▒╪¡╪º┘ä.mp3"
+    },
+    {
+      "id": "almajd_whois_audio_set06_serial_010_1",
+      "q": "من هو؟",
+      "a": "ثمن الوهم",
+      "o": [
+        "ثمن الوهم",
+        "الخطة الاخيرة",
+        "قوافل",
+        "ترحال"
+      ],
+      "mkind": "audio",
+      "audio": "assets/almajd/whois/audio_set02_serial/╪½┘à┘å ╪º┘ä┘ê┘ç┘à.mp3"
+    },
+    {
+      "id": "almajd_whois_audio_set06_serial_011_1",
+      "q": "من هو؟",
+      "a": "رفعت الجلسة",
+      "o": [
+        "الاخطبوط",
+        "رفعت الجلسة",
+        "البر سلف",
+        "منتصف الليل"
+      ],
+      "mkind": "audio",
+      "audio": "assets/almajd/whois/audio_set02_serial/╪▒┘ü╪╣╪¬ ╪º┘ä╪¼┘ä╪│╪⌐.mp3"
+    },
+    {
+      "id": "almajd_whois_audio_set06_serial_012_1",
+      "q": "من هو؟",
+      "a": "رماد",
+      "o": [
+        "المحمية",
+        "البر سلف",
+        "الخطة الاخيرة",
+        "رماد"
+      ],
+      "mkind": "audio",
+      "audio": "assets/almajd/whois/audio_set02_serial/╪▒┘à╪º╪».mp3"
+    },
+    {
+      "id": "almajd_whois_audio_set06_serial_013_1",
+      "q": "من هو؟",
+      "a": "ظروف مغلقه",
+      "o": [
+        "لغز بابل",
+        "غيبوبة",
+        "عيال ربيخة",
+        "ظروف مغلقه"
+      ],
+      "mkind": "audio",
+      "audio": "assets/almajd/whois/audio_set02_serial/╪╕╪▒┘ê┘ü ┘à╪║┘ä┘é┘ç.mp3"
+    },
+    {
+      "id": "almajd_whois_audio_set06_serial_014_1",
+      "q": "من هو؟",
+      "a": "عيال ربيخة",
+      "o": [
+        "منتصف الليل",
+        "الاخطبوط",
+        "عيال ربيخة",
+        "ثمن الوهم"
+      ],
+      "mkind": "audio",
+      "audio": "assets/almajd/whois/audio_set02_serial/╪╣┘è╪º┘ä ╪▒╪¿┘è╪«╪⌐.mp3"
+    },
+    {
+      "id": "almajd_whois_audio_set06_serial_015_1",
+      "q": "من هو؟",
+      "a": "غرباء يدقون الباب",
+      "o": [
+        "غرباء يدقون الباب",
+        "الطريد",
+        "ترحال",
+        "البر سلف"
+      ],
+      "mkind": "audio",
+      "audio": "assets/almajd/whois/audio_set02_serial/╪║╪▒╪¿╪º╪í ┘è╪»┘é┘ê┘å ╪º┘ä╪¿╪º╪¿.mp3"
+    },
+    {
+      "id": "almajd_whois_audio_set06_serial_016_1",
+      "q": "من هو؟",
+      "a": "غيبوبة",
+      "o": [
+        "الطريد",
+        "اضطراب",
+        "عيال ربيخة",
+        "غيبوبة"
+      ],
+      "mkind": "audio",
+      "audio": "assets/almajd/whois/audio_set02_serial/╪║┘è╪¿┘ê╪¿╪⌐.mp3"
+    },
+    {
+      "id": "almajd_whois_audio_set06_serial_017_1",
+      "q": "من هو؟",
+      "a": "قوافل",
+      "o": [
+        "ثمن الوهم",
+        "الاخطبوط",
+        "قوافل",
+        "المحمية"
+      ],
+      "mkind": "audio",
+      "audio": "assets/almajd/whois/audio_set02_serial/┘é┘ê╪º┘ü┘ä.mp3"
+    },
+    {
+      "id": "almajd_whois_audio_set06_serial_018_1",
+      "q": "من هو؟",
+      "a": "لغز بابل",
+      "o": [
+        "البر سلف",
+        "غرباء يدقون الباب",
+        "لغز بابل",
+        "المحمية"
+      ],
+      "mkind": "audio",
+      "audio": "assets/almajd/whois/audio_set02_serial/┘ä╪║╪▓ ╪¿╪º╪¿┘ä.mp3"
+    },
+    {
+      "id": "almajd_whois_audio_set06_serial_019_1",
+      "q": "من هو؟",
+      "a": "مارستان",
+      "o": [
+        "مارستان",
+        "عيال ربيخة",
+        "لغز بابل",
+        "الخطة الاخيرة"
+      ],
+      "mkind": "audio",
+      "audio": "assets/almajd/whois/audio_set02_serial/┘à╪º╪▒╪│╪¬╪º┘å.mp3"
+    },
+    {
+      "id": "almajd_whois_audio_set06_serial_020_1",
+      "q": "من هو؟",
+      "a": "منتصف الليل",
+      "o": [
+        "البر سلف",
+        "الزائر",
+        "منتصف الليل",
+        "ترحال"
+      ],
+      "mkind": "audio",
+      "audio": "assets/almajd/whois/audio_set02_serial/┘à┘å╪¬╪╡┘ü ╪º┘ä┘ä┘è┘ä.mp3"
+    },
+    {
+      "id": "almajd_whois_audio_set06_serial_021_1",
+      "q": "من هو؟",
+      "a": "وادي الرحى",
+      "o": [
+        "ثمن الوهم",
+        "مارستان",
+        "منتصف الليل",
+        "وادي الرحى"
+      ],
+      "mkind": "audio",
+      "audio": "assets/almajd/whois/audio_set02_serial/┘ê╪º╪»┘è ╪º┘ä╪▒╪¡┘ë.mp3"
+    }
+  ],
+  "hard": [
+    {
+      "id": "almajd_whois_audio2_4",
+      "q": "من هو؟",
+      "a": "الراوي",
+      "o": [
+        "فريق الامل",
+        "بامبو وأرنوب",
+        "الديناصورات الصغيرة",
+        "الراوي"
+      ],
+      "h": null,
+      "mkind": "audio",
+      "audio": "assets/almajd/whois/audio2/الراوي.mpeg"
+    },
+    {
+      "id": "almajd_whois_audio1_5",
+      "q": "من هو؟",
+      "a": "حي الجمالية",
+      "o": [
+        "ناسي مع ناسي",
+        "السند",
+        "حي الجمالية",
+        "قصر العز"
+      ],
+      "h": null,
+      "mkind": "audio",
+      "audio": "assets/almajd/whois/audio1/حي الجمالية.mpeg"
+    },
+    {
+      "id": "almajd_whois_img_kids_18",
+      "q": "من هو؟",
+      "a": "مدينة الاطفال",
+      "o": [
+        "كونغ فود",
+        "مدينة الاطفال",
+        "بيف وهيركول",
+        "الدب الصغير"
+      ],
+      "h": null,
+      "mkind": "img",
+      "img": "assets/almajd/whois/img_kids/مدينة الاطفال.png"
+    },
+    {
+      "id": "almajd_whois_video1_1",
+      "q": "من هو؟",
+      "a": "احان الوداع",
+      "o": [
+        "دكرينا",
+        "ضاقت علي كل الدروب",
+        "احان الوداع",
+        "اميرات"
+      ],
+      "h": null,
+      "mkind": "video",
+      "video": "assets/almajd/whois/video1/احان الوداع.MP4"
+    },
+    {
+      "id": "almajd_whois_img_kids_1",
+      "q": "من هو؟",
+      "a": "التؤام المدهش",
+      "o": [
+        "التؤام المدهش",
+        "الدب الصغير",
+        "الولد الصالح",
+        "انين الأرض"
+      ],
+      "h": null,
+      "mkind": "img",
+      "img": "assets/almajd/whois/img_kids/التؤام المدهش.png"
+    },
+    {
+      "id": "almajd_whois_img_kids_13",
+      "q": "من هو؟",
+      "a": "سوكي",
+      "o": [
+        "سوكي",
+        "دمتم سالمين",
+        "التؤام المدهش",
+        "سفير الطبيعه"
+      ],
+      "h": null,
+      "mkind": "img",
+      "img": "assets/almajd/whois/img_kids/سوكي.png"
+    },
+    {
+      "id": "almajd_whois_img_majd_13",
+      "q": "من هو؟",
+      "a": "سبع",
+      "o": [
+        "ريان",
+        "البشير",
+        "مهاوش",
+        "سبع"
+      ],
+      "h": "مسلسل سبع البراري",
+      "mkind": "img",
+      "img": "assets/almajd/whois/img_majd/سبع_مسلسل سبع البراري.png"
+    },
+    {
+      "id": "almajd_whois_audio1_6",
+      "q": "من هو؟",
+      "a": "درب النجارين",
+      "o": [
+        "عابر سبيل",
+        "غيوم",
+        "درب النجارين",
+        "هدنة"
+      ],
+      "h": null,
+      "mkind": "audio",
+      "audio": "assets/almajd/whois/audio1/درب النجارين.mpeg"
+    },
+    {
+      "id": "almajd_whois_img_kids_12",
+      "q": "من هو؟",
+      "a": "سفير الطبيعه",
+      "o": [
+        "القطارات الآليه",
+        "سفير الطبيعه",
+        "نحو الشمس",
+        "بيف وهيركول"
+      ],
+      "h": null,
+      "mkind": "img",
+      "img": "assets/almajd/whois/img_kids/سفير الطبيعه.png"
+    },
+    {
+      "id": "almajd_whois_img_kids_8",
+      "q": "من هو؟",
+      "a": "انين الأرض",
+      "o": [
+        "الراوي",
+        "انين الأرض",
+        "دودو والاصدقاء",
+        "المُحقق كمال"
+      ],
+      "h": null,
+      "mkind": "img",
+      "img": "assets/almajd/whois/img_kids/انين الأرض.png"
+    },
+    {
+      "id": "almajd_whois_img_majd_7",
+      "q": "من هو؟",
+      "a": "درديري",
+      "o": [
+        "درديري",
+        "سعود",
+        "سالم",
+        "جمال"
+      ],
+      "h": "مسلسل ترحال",
+      "mkind": "img",
+      "img": "assets/almajd/whois/img_majd/درديري_مسلسل ترحال.png"
+    },
+    {
+      "id": "almajd_whois_img_majd_14",
+      "q": "من هو؟",
+      "a": "سعود",
+      "o": [
+        "سعود",
+        "فخري",
+        "فهد",
+        "مناع"
+      ],
+      "h": "مسلسل لواهيب",
+      "mkind": "img",
+      "img": "assets/almajd/whois/img_majd/سعود_مسلسل لواهيب.png"
+    },
+    {
+      "id": "almajd_whois_img_majd_9",
+      "q": "من هو؟",
+      "a": "راشد",
+      "o": [
+        "سعود",
+        "درديري",
+        "راشد",
+        "سالم"
+      ],
+      "h": "مسلسل السند",
+      "mkind": "img",
+      "img": "assets/almajd/whois/img_majd/راشد_مسلسل السند.png"
+    },
+    {
+      "id": "almajd_whois_audio2_10",
+      "q": "من هو؟",
+      "a": "جزيرة دبدوب",
+      "o": [
+        "جزيرة دبدوب",
+        "يوميات مخترع",
+        "ابن بطوطة",
+        "فيروزة"
+      ],
+      "h": null,
+      "mkind": "audio",
+      "audio": "assets/almajd/whois/audio2/جزيرة دبدوب.mpeg"
+    },
+    {
+      "id": "almajd_whois_img_kids_17",
+      "q": "من هو؟",
+      "a": "كونغ فود",
+      "o": [
+        "مدينة الشاحنات",
+        "كونغ فود",
+        "دودو والاصدقاء",
+        "كرزة الصغيره"
+      ],
+      "h": null,
+      "mkind": "img",
+      "img": "assets/almajd/whois/img_kids/كونغ فود.png"
+    },
+    {
+      "id": "almajd_whois_audio1_16",
+      "q": "من هو؟",
+      "a": "هدنة",
+      "o": [
+        "هدنة",
+        "ضد معلوم",
+        "الورشة",
+        "ناسي مع ناسي"
+      ],
+      "h": null,
+      "mkind": "audio",
+      "audio": "assets/almajd/whois/audio1/هدنة.mpeg"
+    },
+    {
+      "id": "almajd_whois_video1_4",
+      "q": "من هو؟",
+      "a": "حق باطل",
+      "o": [
+        "موطن الحب",
+        "عبيرة المسيره",
+        "ضاقت علي كل الدروب",
+        "حق باطل"
+      ],
+      "h": null,
+      "mkind": "video",
+      "video": "assets/almajd/whois/video1/حق باطل.MP4"
+    },
+    {
+      "id": "almajd_whois_audio1_3",
+      "q": "من هو؟",
+      "a": "الورشة",
+      "o": [
+        "حي الجمالية",
+        "السند",
+        "الورشة",
+        "رهين"
+      ],
+      "h": null,
+      "mkind": "audio",
+      "audio": "assets/almajd/whois/audio1/الورشة.mpeg"
+    },
+    {
+      "id": "almajd_whois_audio2_1",
+      "q": "من هو؟",
+      "a": "ابن بطوطة",
+      "o": [
+        "ابن بطوطة",
+        "الديناصورات الصغيرة",
+        "فيروزة",
+        "فريق الامل"
+      ],
+      "h": null,
+      "mkind": "audio",
+      "audio": "assets/almajd/whois/audio2/ابن بطوطة.mpeg"
+    },
+    {
+      "id": "almajd_whois_video1_6",
+      "q": "من هو؟",
+      "a": "دكرينا",
+      "o": [
+        "انتهت طول المسيره",
+        "عبيرة المسيره",
+        "اميرات",
+        "دكرينا"
+      ],
+      "h": null,
+      "mkind": "video",
+      "video": "assets/almajd/whois/video1/دكرينا.MP4"
+    },
+    {
+      "id": "almajd_whois_audio2_13",
+      "q": "من هو؟",
+      "a": "فيروزة",
+      "o": [
+        "فيروزة",
+        "الصياد الجري",
+        "دودو والأصدقاء",
+        "ابن ماجد"
+      ],
+      "h": null,
+      "mkind": "audio",
+      "audio": "assets/almajd/whois/audio2/فيروزة.mpeg"
+    },
+    {
+      "id": "almajd_whois_img_majd_21",
+      "q": "من هو؟",
+      "a": "مهاوش",
+      "o": [
+        "مهاوش",
+        "حمود",
+        "اواب",
+        "حجاج"
+      ],
+      "h": "مسلسل سبع البراري",
+      "mkind": "img",
+      "img": "assets/almajd/whois/img_majd/مهاوش_مسلسل سبع البراري.png"
+    },
+    {
+      "id": "almajd_whois_audio1_15",
+      "q": "من هو؟",
+      "a": "ناسي مع ناسي",
+      "o": [
+        "جواز سفر",
+        "حي الجمالية",
+        "ناسي مع ناسي",
+        "أهل الواحة"
+      ],
+      "h": null,
+      "mkind": "audio",
+      "audio": "assets/almajd/whois/audio1/ناسي مع ناسي.mpeg"
+    },
+    {
+      "id": "almajd_whois_img_kids_3",
+      "q": "من هو؟",
+      "a": "الراوي",
+      "o": [
+        "القطارات الآليه",
+        "بيف وهيركول",
+        "الفريق نون",
+        "الراوي"
+      ],
+      "h": null,
+      "mkind": "img",
+      "img": "assets/almajd/whois/img_kids/الراوي.png"
+    },
+    {
+      "id": "almajd_whois_img_majd_11",
+      "q": "من هو؟",
+      "a": "ريان",
+      "o": [
+        "ريان",
+        "سعود",
+        "ضاحي",
+        "مهاوش"
+      ],
+      "h": "مسلسل السند",
+      "mkind": "img",
+      "img": "assets/almajd/whois/img_majd/ريان_مسلسل السند.png"
+    },
+    {
+      "id": "almajd_whois_audio2_6",
+      "q": "من هو؟",
+      "a": "بامبو وأرنوب",
+      "o": [
+        "بامبو وألما",
+        "ابن بطوطة",
+        "بامبو وأرنوب",
+        "الصياد الجري"
+      ],
+      "h": null,
+      "mkind": "audio",
+      "audio": "assets/almajd/whois/audio2/بامبو وأرنوب.mpeg"
+    },
+    {
+      "id": "almajd_whois_img_set04_arab_001_1",
+      "q": "من هو؟",
+      "a": "تركي",
+      "o": [
+        "طلال",
+        "راشد",
+        "حمد",
+        "تركي"
+      ],
+      "mkind": "img",
+      "h": "الفيلا",
+      "img": "assets/almajd/whois/img_set04_arab/╪¬╪▒┘â┘è_╪º┘ä┘ü┘è┘ä╪º.png"
+    },
+    {
+      "id": "almajd_whois_img_set04_arab_002_1",
+      "q": "من هو؟",
+      "a": "تميم",
+      "o": [
+        "وليد",
+        "مشعل",
+        "راكان",
+        "تميم"
+      ],
+      "mkind": "img",
+      "h": "طلق ناري",
+      "img": "assets/almajd/whois/img_set04_arab/╪¬┘à┘è┘à_╪╖┘ä┘é ┘å╪º╪▒┘è.png"
+    },
+    {
+      "id": "almajd_whois_img_set04_arab_003_1",
+      "q": "من هو؟",
+      "a": "ثامر",
+      "o": [
+        "حمد",
+        "ثامر",
+        "مشعل",
+        "طلال"
+      ],
+      "mkind": "img",
+      "h": "الفيلا",
+      "img": "assets/almajd/whois/img_set04_arab/╪½╪º┘à╪▒_╪º┘ä┘ü┘è┘ä╪º.png"
+    },
+    {
+      "id": "almajd_whois_img_set04_arab_004_1",
+      "q": "من هو؟",
+      "a": "حمد",
+      "o": [
+        "فهد",
+        "مشعل",
+        "حمد",
+        "خلف"
+      ],
+      "mkind": "img",
+      "h": "رهين",
+      "img": "assets/almajd/whois/img_set04_arab/╪¡┘à╪»_╪▒┘ç┘è┘å.png"
+    },
+    {
+      "id": "almajd_whois_img_set04_arab_005_1",
+      "q": "من هو؟",
+      "a": "خالد",
+      "o": [
+        "راكان",
+        "عبدالله",
+        "خالد",
+        "وليد"
+      ],
+      "mkind": "img",
+      "h": "حق باطل",
+      "img": "assets/almajd/whois/img_set04_arab/╪«╪º┘ä╪»_╪¡┘é ╪¿╪º╪╖┘ä.png"
+    },
+    {
+      "id": "almajd_whois_img_set04_arab_006_1",
+      "q": "من هو؟",
+      "a": "خلف",
+      "o": [
+        "عابد",
+        "خلف",
+        "علي",
+        "فيصل"
+      ],
+      "mkind": "img",
+      "h": "طي النسيان",
+      "img": "assets/almajd/whois/img_set04_arab/╪«┘ä┘ü_╪╖┘è ╪º┘ä┘å╪│┘è╪º┘å.png"
+    },
+    {
+      "id": "almajd_whois_img_set04_arab_007_1",
+      "q": "من هو؟",
+      "a": "دحام",
+      "o": [
+        "سلطان",
+        "فواز",
+        "عبدالله",
+        "دحام"
+      ],
+      "mkind": "img",
+      "h": "سبع البراري",
+      "img": "assets/almajd/whois/img_set04_arab/╪»╪¡╪º┘à_╪│╪¿╪╣ ╪º┘ä╪¿╪▒╪º╪▒┘è.png"
+    },
+    {
+      "id": "almajd_whois_img_set04_arab_008_1",
+      "q": "من هو؟",
+      "a": "راشد",
+      "o": [
+        "عبدالله",
+        "عابد",
+        "شداد",
+        "راشد"
+      ],
+      "mkind": "img",
+      "h": "الرواية",
+      "img": "assets/almajd/whois/img_set04_arab/╪▒╪º╪┤╪»_╪º┘ä╪▒┘ê╪º┘è╪⌐.png"
+    },
+    {
+      "id": "almajd_whois_img_set04_arab_009_1",
+      "q": "من هو؟",
+      "a": "راكان",
+      "o": [
+        "معتوق",
+        "منصور",
+        "شداد",
+        "راكان"
+      ],
+      "mkind": "img",
+      "h": "رهين",
+      "img": "assets/almajd/whois/img_set04_arab/╪▒╪º┘â╪º┘å_╪▒┘ç┘è┘å.png"
+    },
+    {
+      "id": "almajd_whois_img_set04_arab_010_1",
+      "q": "من هو؟",
+      "a": "رزق",
+      "o": [
+        "عابد",
+        "رزق",
+        "خلف",
+        "وليد"
+      ],
+      "mkind": "img",
+      "h": "سبع البراري",
+      "img": "assets/almajd/whois/img_set04_arab/╪▒╪▓┘é_╪│╪¿╪╣ ╪º┘ä╪¿╪▒╪º╪▒┘è.png"
+    },
+    {
+      "id": "almajd_whois_img_set04_arab_011_1",
+      "q": "من هو؟",
+      "a": "رياض",
+      "o": [
+        "رياض",
+        "سيف",
+        "عبدالله",
+        "صالح"
+      ],
+      "mkind": "img",
+      "h": "الرواية",
+      "img": "assets/almajd/whois/img_set04_arab/╪▒┘è╪º╪╢_╪º┘ä╪▒┘ê╪º┘è╪⌐.png"
+    },
+    {
+      "id": "almajd_whois_img_set04_arab_012_1",
+      "q": "من هو؟",
+      "a": "سعود",
+      "o": [
+        "خالد",
+        "صهيب",
+        "ناصر",
+        "سعود"
+      ],
+      "mkind": "img",
+      "h": "رهين",
+      "img": "assets/almajd/whois/img_set04_arab/╪│╪╣┘ê╪»_╪▒┘ç┘è┘å.png"
+    },
+    {
+      "id": "almajd_whois_img_set04_arab_013_1",
+      "q": "من هو؟",
+      "a": "سلطان",
+      "o": [
+        "سلطان",
+        "فيصل",
+        "فواز",
+        "نايف"
+      ],
+      "mkind": "img",
+      "h": "حق باطل",
+      "img": "assets/almajd/whois/img_set04_arab/╪│┘ä╪╖╪º┘å_╪¡┘é ╪¿╪º╪╖┘ä.png"
+    },
+    {
+      "id": "almajd_whois_img_set04_arab_014_1",
+      "q": "من هو؟",
+      "a": "سلطان",
+      "o": [
+        "دحام",
+        "سلطان",
+        "صالح",
+        "مشعل"
+      ],
+      "mkind": "img",
+      "h": "طلق ناري",
+      "img": "assets/almajd/whois/img_set04_arab/╪│┘ä╪╖╪º┘å_╪╖┘ä┘é ┘å╪º╪▒┘è.png"
+    },
+    {
+      "id": "almajd_whois_img_set04_arab_015_1",
+      "q": "من هو؟",
+      "a": "سيف",
+      "o": [
+        "راشد",
+        "صهيب",
+        "حمد",
+        "سيف"
+      ],
+      "mkind": "img",
+      "h": "غيوم",
+      "img": "assets/almajd/whois/img_set04_arab/╪│┘è┘ü_╪║┘è┘ê┘à.png"
+    },
+    {
+      "id": "almajd_whois_img_set04_arab_016_1",
+      "q": "من هو؟",
+      "a": "شداد",
+      "o": [
+        "علي",
+        "معتوق",
+        "وليد",
+        "شداد"
+      ],
+      "mkind": "img",
+      "h": "غيوم",
+      "img": "assets/almajd/whois/img_set04_arab/╪┤╪»╪º╪»_╪║┘è┘ê┘à.png"
+    },
+    {
+      "id": "almajd_whois_img_set04_arab_017_1",
+      "q": "من هو؟",
+      "a": "صالح",
+      "o": [
+        "صالح",
+        "ناصر",
+        "رياض",
+        "معتوق"
+      ],
+      "mkind": "img",
+      "h": "سبع البراري",
+      "img": "assets/almajd/whois/img_set04_arab/╪╡╪º┘ä╪¡_╪│╪¿╪╣ ╪º┘ä╪¿╪▒╪º╪▒┘è.png"
+    },
+    {
+      "id": "almajd_whois_img_set04_arab_018_1",
+      "q": "من هو؟",
+      "a": "صهيب",
+      "o": [
+        "ظافر",
+        "صالح",
+        "نايف",
+        "صهيب"
+      ],
+      "mkind": "img",
+      "h": "حق باطل",
+      "img": "assets/almajd/whois/img_set04_arab/╪╡┘ç┘è╪¿_╪¡┘é ╪¿╪º╪╖┘ä.png"
+    },
+    {
+      "id": "almajd_whois_img_set04_arab_019_1",
+      "q": "من هو؟",
+      "a": "طلال",
+      "o": [
+        "ظافر",
+        "صالح",
+        "طلال",
+        "عمران"
+      ],
+      "mkind": "img",
+      "h": "الرواية",
+      "img": "assets/almajd/whois/img_set04_arab/╪╖┘ä╪º┘ä_╪º┘ä╪▒┘ê╪º┘è╪⌐.png"
+    },
+    {
+      "id": "almajd_whois_img_set04_arab_020_1",
+      "q": "من هو؟",
+      "a": "ظافر",
+      "o": [
+        "رزق",
+        "راكان",
+        "شداد",
+        "ظافر"
+      ],
+      "mkind": "img",
+      "h": "حق باطل",
+      "img": "assets/almajd/whois/img_set04_arab/╪╕╪º┘ü╪▒_╪¡┘é ╪¿╪º╪╖┘ä.png"
+    },
+    {
+      "id": "almajd_whois_img_set04_arab_021_1",
+      "q": "من هو؟",
+      "a": "ظافر",
+      "o": [
+        "سيف",
+        "مشاري",
+        "خالد",
+        "ظافر"
+      ],
+      "mkind": "img",
+      "h": "طلق ناري",
+      "img": "assets/almajd/whois/img_set04_arab/╪╕╪º┘ü╪▒_╪╖┘ä┘é ┘å╪º╪▒┘è.png"
+    },
+    {
+      "id": "almajd_whois_img_set04_arab_022_1",
+      "q": "من هو؟",
+      "a": "عابد",
+      "o": [
+        "سيف",
+        "مشاري",
+        "حمد",
+        "عابد"
+      ],
+      "mkind": "img",
+      "h": "طلق ناري",
+      "img": "assets/almajd/whois/img_set04_arab/╪╣╪º╪¿╪»_╪╖┘ä┘é ┘å╪º╪▒┘è.png"
+    },
+    {
+      "id": "almajd_whois_img_set04_arab_023_1",
+      "q": "من هو؟",
+      "a": "عبدالله",
+      "o": [
+        "فواز",
+        "عبدالله",
+        "ناصر",
+        "تركي"
+      ],
+      "mkind": "img",
+      "h": "الفيلا",
+      "img": "assets/almajd/whois/img_set04_arab/╪╣╪¿╪»╪º┘ä┘ä┘ç_╪º┘ä┘ü┘è┘ä╪º.png"
+    },
+    {
+      "id": "almajd_whois_img_set04_arab_024_1",
+      "q": "من هو؟",
+      "a": "علي",
+      "o": [
+        "مشاري",
+        "نايف",
+        "علي",
+        "شداد"
+      ],
+      "mkind": "img",
+      "h": "الفيلا",
+      "img": "assets/almajd/whois/img_set04_arab/╪╣┘ä┘è_╪º┘ä┘ü┘è┘ä╪º.png"
+    },
+    {
+      "id": "almajd_whois_img_set04_arab_025_1",
+      "q": "من هو؟",
+      "a": "علي",
+      "o": [
+        "نايف",
+        "تميم",
+        "علي",
+        "فواز"
+      ],
+      "mkind": "img",
+      "h": "طلق ناري",
+      "img": "assets/almajd/whois/img_set04_arab/╪╣┘ä┘è_╪╖┘ä┘é ┘å╪º╪▒┘è.png"
+    },
+    {
+      "id": "almajd_whois_img_set04_arab_026_1",
+      "q": "من هو؟",
+      "a": "عمران",
+      "o": [
+        "راكان",
+        "عمران",
+        "منصور",
+        "رياض"
+      ],
+      "mkind": "img",
+      "h": "الرواية",
+      "img": "assets/almajd/whois/img_set04_arab/╪╣┘à╪▒╪º┘å_╪º┘ä╪▒┘ê╪º┘è╪⌐.png"
+    },
+    {
+      "id": "almajd_whois_img_set04_arab_027_1",
+      "q": "من هو؟",
+      "a": "فلاح",
+      "o": [
+        "مشعل",
+        "راكان",
+        "خلف",
+        "فلاح"
+      ],
+      "mkind": "img",
+      "h": "طي النسيان",
+      "img": "assets/almajd/whois/img_set04_arab/┘ü┘ä╪º╪¡_╪╖┘è ╪º┘ä┘å╪│┘è╪º┘å.png"
+    },
+    {
+      "id": "almajd_whois_img_set04_arab_028_1",
+      "q": "من هو؟",
+      "a": "فلاح",
+      "o": [
+        "صهيب",
+        "عبدالله",
+        "فلاح",
+        "فواز"
+      ],
+      "mkind": "img",
+      "h": "غيوم",
+      "img": "assets/almajd/whois/img_set04_arab/┘ü┘ä╪º╪¡_╪║┘è┘ê┘à.png"
+    },
+    {
+      "id": "almajd_whois_img_set04_arab_029_1",
+      "q": "من هو؟",
+      "a": "فهد",
+      "o": [
+        "طلال",
+        "علي",
+        "فواز",
+        "فهد"
+      ],
+      "mkind": "img",
+      "h": "الفيلا",
+      "img": "assets/almajd/whois/img_set04_arab/┘ü┘ç╪»_╪º┘ä┘ü┘è┘ä╪º.png"
+    },
+    {
+      "id": "almajd_whois_img_set04_arab_030_1",
+      "q": "من هو؟",
+      "a": "فهد",
+      "o": [
+        "تميم",
+        "فهد",
+        "ناصر",
+        "حمد"
+      ],
+      "mkind": "img",
+      "h": "حق باطل",
+      "img": "assets/almajd/whois/img_set04_arab/┘ü┘ç╪»_╪¡┘é ╪¿╪º╪╖┘ä.png"
+    },
+    {
+      "id": "almajd_whois_img_set04_arab_031_1",
+      "q": "من هو؟",
+      "a": "فواز",
+      "o": [
+        "فواز",
+        "صالح",
+        "ثامر",
+        "تميم"
+      ],
+      "mkind": "img",
+      "h": "غيوم",
+      "img": "assets/almajd/whois/img_set04_arab/┘ü┘ê╪º╪▓_╪║┘è┘ê┘à.png"
+    },
+    {
+      "id": "almajd_whois_img_set04_arab_032_1",
+      "q": "من هو؟",
+      "a": "فيصل",
+      "o": [
+        "راكان",
+        "فيصل",
+        "ناصر",
+        "صالح"
+      ],
+      "mkind": "img",
+      "h": "طلق ناري",
+      "img": "assets/almajd/whois/img_set04_arab/┘ü┘è╪╡┘ä_╪╖┘ä┘é ┘å╪º╪▒┘è.png"
+    },
+    {
+      "id": "almajd_whois_img_set04_arab_033_1",
+      "q": "من هو؟",
+      "a": "مشاري",
+      "o": [
+        "مشاري",
+        "منصور",
+        "فلاح",
+        "صهيب"
+      ],
+      "mkind": "img",
+      "h": "الرواية",
+      "img": "assets/almajd/whois/img_set04_arab/┘à╪┤╪º╪▒┘è_╪º┘ä╪▒┘ê╪º┘è╪⌐.png"
+    },
+    {
+      "id": "almajd_whois_img_set04_arab_034_1",
+      "q": "من هو؟",
+      "a": "مشاري",
+      "o": [
+        "مشاري",
+        "دحام",
+        "عابد",
+        "رياض"
+      ],
+      "mkind": "img",
+      "h": "رهين",
+      "img": "assets/almajd/whois/img_set04_arab/┘à╪┤╪º╪▒┘è_╪▒┘ç┘è┘å.png"
+    },
+    {
+      "id": "almajd_whois_img_set04_arab_035_1",
+      "q": "من هو؟",
+      "a": "مشعل",
+      "o": [
+        "خالد",
+        "مشعل",
+        "فواز",
+        "سلطان"
+      ],
+      "mkind": "img",
+      "h": "حق باطل",
+      "img": "assets/almajd/whois/img_set04_arab/┘à╪┤╪╣┘ä_╪¡┘é ╪¿╪º╪╖┘ä.png"
+    },
+    {
+      "id": "almajd_whois_img_set04_arab_036_1",
+      "q": "من هو؟",
+      "a": "معتوق",
+      "o": [
+        "راشد",
+        "ثامر",
+        "عمران",
+        "معتوق"
+      ],
+      "mkind": "img",
+      "h": "طي النسيان",
+      "img": "assets/almajd/whois/img_set04_arab/┘à╪╣╪¬┘ê┘é_╪╖┘è ╪º┘ä┘å╪│┘è╪º┘å.png"
+    },
+    {
+      "id": "almajd_whois_img_set04_arab_037_1",
+      "q": "من هو؟",
+      "a": "منصور",
+      "o": [
+        "منصور",
+        "علي",
+        "وليد",
+        "خالد"
+      ],
+      "mkind": "img",
+      "h": "طلق ناري",
+      "img": "assets/almajd/whois/img_set04_arab/┘à┘å╪╡┘ê╪▒_╪╖┘ä┘é ┘å╪º╪▒┘è.png"
+    },
+    {
+      "id": "almajd_whois_img_set04_arab_038_1",
+      "q": "من هو؟",
+      "a": "ناصر",
+      "o": [
+        "مشاري",
+        "دحام",
+        "فلاح",
+        "ناصر"
+      ],
+      "mkind": "img",
+      "h": "حق باطل",
+      "img": "assets/almajd/whois/img_set04_arab/┘å╪º╪╡╪▒_╪¡┘é ╪¿╪º╪╖┘ä.png"
+    },
+    {
+      "id": "almajd_whois_img_set04_arab_039_1",
+      "q": "من هو؟",
+      "a": "نايف",
+      "o": [
+        "مشاري",
+        "طلال",
+        "سعود",
+        "نايف"
+      ],
+      "mkind": "img",
+      "h": "طلق ناري",
+      "img": "assets/almajd/whois/img_set04_arab/┘å╪º┘è┘ü_╪╖┘ä┘é ┘å╪º╪▒┘è.png"
+    },
+    {
+      "id": "almajd_whois_img_set04_arab_040_1",
+      "q": "من هو؟",
+      "a": "وليد",
+      "o": [
+        "وليد",
+        "صالح",
+        "عبدالله",
+        "طلال"
+      ],
+      "mkind": "img",
+      "h": "الفيلا",
+      "img": "assets/almajd/whois/img_set04_arab/┘ê┘ä┘è╪»_╪º┘ä┘ü┘è┘ä╪º.png"
+    },
+    {
+      "id": "almajd_whois_audio_set07_song_001_1",
+      "q": "من هو؟",
+      "a": "احفاد بونو",
+      "o": [
+        "مابوه مثلي",
+        "رجعنا مشتاقين",
+        "احفاد بونو",
+        "زخارف العيد"
+      ],
+      "mkind": "audio",
+      "audio": "assets/almajd/whois/audio_set03_song/╪º╪¡┘ü╪º╪» ╪¿┘ê┘å┘ê.mp3"
+    },
+    {
+      "id": "almajd_whois_audio_set07_song_002_1",
+      "q": "من هو؟",
+      "a": "اغلى شعور",
+      "o": [
+        "اغلى شعور",
+        "فاح الميعاد",
+        "الدنيا فرحانة",
+        "شموس العز"
+      ],
+      "mkind": "audio",
+      "audio": "assets/almajd/whois/audio_set03_song/╪º╪║┘ä┘ë ╪┤╪╣┘ê╪▒.mp3"
+    },
+    {
+      "id": "almajd_whois_audio_set07_song_003_1",
+      "q": "من هو؟",
+      "a": "الدنيا فرحانة",
+      "o": [
+        "رجعنا مشتاقين",
+        "احفاد بونو",
+        "الدنيا فرحانة",
+        "فاح الميعاد"
+      ],
+      "mkind": "audio",
+      "audio": "assets/almajd/whois/audio_set03_song/╪º┘ä╪»┘å┘è╪º ┘ü╪▒╪¡╪º┘å╪⌐.mp3"
+    },
+    {
+      "id": "almajd_whois_audio_set07_song_004_1",
+      "q": "من هو؟",
+      "a": "بستان العلم",
+      "o": [
+        "فاح الميعاد",
+        "رجعنا مشتاقين",
+        "بستان العلم",
+        "كشتتنا"
+      ],
+      "mkind": "audio",
+      "audio": "assets/almajd/whois/audio_set03_song/╪¿╪│╪¬╪º┘å ╪º┘ä╪╣┘ä┘à.mp3"
+    },
+    {
+      "id": "almajd_whois_audio_set07_song_005_1",
+      "q": "من هو؟",
+      "a": "تباشير الهنا",
+      "o": [
+        "تباشير الهنا",
+        "كشتتنا",
+        "عدنا حبا",
+        "شموس العز"
+      ],
+      "mkind": "audio",
+      "audio": "assets/almajd/whois/audio_set03_song/╪¬╪¿╪º╪┤┘è╪▒ ╪º┘ä┘ç┘å╪º.mp3"
+    },
+    {
+      "id": "almajd_whois_audio_set07_song_006_1",
+      "q": "من هو؟",
+      "a": "رجعنا مشتاقين",
+      "o": [
+        "كشتتنا",
+        "اغلى شعور",
+        "شموس العز",
+        "رجعنا مشتاقين"
+      ],
+      "mkind": "audio",
+      "audio": "assets/almajd/whois/audio_set03_song/╪▒╪¼╪╣┘å╪º ┘à╪┤╪¬╪º┘é┘è┘å.mp3"
+    },
+    {
+      "id": "almajd_whois_audio_set07_song_007_1",
+      "q": "من هو؟",
+      "a": "رونق الاهازيج",
+      "o": [
+        "رجعنا مشتاقين",
+        "اغلى شعور",
+        "رونق الاهازيج",
+        "مابوه مثلي"
+      ],
+      "mkind": "audio",
+      "audio": "assets/almajd/whois/audio_set03_song/╪▒┘ê┘å┘é ╪º┘ä╪º┘ç╪º╪▓┘è╪¼.mp3"
+    },
+    {
+      "id": "almajd_whois_audio_set07_song_008_1",
+      "q": "من هو؟",
+      "a": "زخارف العيد",
+      "o": [
+        "شموس العز",
+        "مابوه مثلي",
+        "تباشير الهنا",
+        "زخارف العيد"
+      ],
+      "mkind": "audio",
+      "audio": "assets/almajd/whois/audio_set03_song/╪▓╪«╪º╪▒┘ü ╪º┘ä╪╣┘è╪».mp3"
+    },
+    {
+      "id": "almajd_whois_audio_set07_song_009_1",
+      "q": "من هو؟",
+      "a": "شموس العز",
+      "o": [
+        "شموس العز",
+        "زخارف العيد",
+        "اغلى شعور",
+        "رجعنا مشتاقين"
+      ],
+      "mkind": "audio",
+      "audio": "assets/almajd/whois/audio_set03_song/╪┤┘à┘ê╪│ ╪º┘ä╪╣╪▓.mp3"
+    },
+    {
+      "id": "almajd_whois_audio_set07_song_010_1",
+      "q": "من هو؟",
+      "a": "عدنا حبا",
+      "o": [
+        "احفاد بونو",
+        "رونق الاهازيج",
+        "شموس العز",
+        "عدنا حبا"
+      ],
+      "mkind": "audio",
+      "audio": "assets/almajd/whois/audio_set03_song/╪╣╪»┘å╪º ╪¡╪¿╪º.mp3"
+    },
+    {
+      "id": "almajd_whois_audio_set07_song_011_1",
+      "q": "من هو؟",
+      "a": "فاح الميعاد",
+      "o": [
+        "بستان العلم",
+        "شموس العز",
+        "رجعنا مشتاقين",
+        "فاح الميعاد"
+      ],
+      "mkind": "audio",
+      "audio": "assets/almajd/whois/audio_set03_song/┘ü╪º╪¡ ╪º┘ä┘à┘è╪╣╪º╪».mp3"
+    },
+    {
+      "id": "almajd_whois_audio_set07_song_012_1",
+      "q": "من هو؟",
+      "a": "كشتتنا",
+      "o": [
+        "احفاد بونو",
+        "تباشير الهنا",
+        "كشتتنا",
+        "بستان العلم"
+      ],
+      "mkind": "audio",
+      "audio": "assets/almajd/whois/audio_set03_song/┘â╪┤╪¬╪¬┘å╪º.mp3"
+    },
+    {
+      "id": "almajd_whois_audio_set07_song_013_1",
+      "q": "من هو؟",
+      "a": "مابوه مثلي",
+      "o": [
+        "زخارف العيد",
+        "مابوه مثلي",
+        "اغلى شعور",
+        "كشتتنا"
+      ],
+      "mkind": "audio",
+      "audio": "assets/almajd/whois/audio_set03_song/┘à╪º╪¿┘ê┘ç ┘à╪½┘ä┘è.mp3"
+    }
+  ]
+}

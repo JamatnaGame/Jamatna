@@ -1,21 +1,29 @@
 {
-    "name": "جمعتنا",
-    "short_name": "جمعتنا",
-    "start_url": "index.html",
-    "display": "standalone",
-    "background_color": "#0f172a",
-    "theme_color": "#0f172a",
-    "orientation": "landscape",
-    "icons": [
-        {
-            "src": "https://cdn-icons-png.flaticon.com/512/808/808439.png",
-            "sizes": "192x192",
-            "type": "image/png"
-        },
-        {
-            "src": "https://cdn-icons-png.flaticon.com/512/808/808439.png",
-            "sizes": "512x512",
-            "type": "image/png"
-        }
-    ]
+  "name": "Jamatna - جمعتنا",
+  "short_name": "Jamatna",
+  "start_url": "./?pwa=1",
+  "display": "standalone",
+  "background_color": "#0B1220",
+  "theme_color": "#FFAA00",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "scope": "./",
+  "id": "./?pwa=1",
+  "prefer_related_applications": false
 }

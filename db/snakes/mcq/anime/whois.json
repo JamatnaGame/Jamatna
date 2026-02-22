@@ -1,0 +1,2208 @@
+{
+  "type": "anime",
+  "sub": "whois",
+  "easy": [
+    {
+      "id": "anime_whois_img_anime_001",
+      "q": "من هو؟",
+      "a": "Nana",
+      "o": [
+        "Neva",
+        "Nana",
+        "Naito",
+        "Nezuko"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Nana.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_002",
+      "q": "من هو؟",
+      "a": "Conan",
+      "o": [
+        "Chifuyu",
+        "Chie",
+        "Conan",
+        "Charmy"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Conan.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_003",
+      "q": "من هو؟",
+      "a": "Newgate",
+      "o": [
+        "Naito",
+        "Neva",
+        "Newgate",
+        "Nahoya"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Newgate.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_004",
+      "q": "من هو؟",
+      "a": "Franky",
+      "o": [
+        "Frate",
+        "Fubuki",
+        "Fuuko",
+        "Franky"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Franky.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_005",
+      "q": "من هو؟",
+      "a": "Gon",
+      "o": [
+        "Gennosuke",
+        "Giang",
+        "Gon",
+        "Gray"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Gon.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_006",
+      "q": "من هو؟",
+      "a": "Fubuki",
+      "o": [
+        "Frate",
+        "Franky",
+        "Fuuko",
+        "Fubuki"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Fubuki.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_007",
+      "q": "من هو؟",
+      "a": "Tatsuya",
+      "o": [
+        "Tatsumaki",
+        "Takayuki",
+        "Tanjirou",
+        "Tatsuya"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Tatsuya.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_008",
+      "q": "من هو؟",
+      "a": "Gray",
+      "o": [
+        "Gohan",
+        "Givuu",
+        "Gray",
+        "Gyokuyou"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Gray.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_009",
+      "q": "من هو؟",
+      "a": "lharu",
+      "o": [
+        "Luffy",
+        "Leorio",
+        "lharu",
+        "Lemon"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/lharu.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_010",
+      "q": "من هو؟",
+      "a": "Takayuki",
+      "o": [
+        "Tatsumaki",
+        "Thorfinn",
+        "Takayuki",
+        "Toshizou"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Takayuki.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_011",
+      "q": "من هو؟",
+      "a": "GENOS",
+      "o": [
+        "Gokuu",
+        "GENOS",
+        "Gyokuyou",
+        "Gon"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/GENOS.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_012",
+      "q": "من هو؟",
+      "a": "Roger",
+      "o": [
+        "Roger",
+        "Reno",
+        "rem",
+        "Rensuke"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Roger.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_013",
+      "q": "من هو؟",
+      "a": "Gyokuyou",
+      "o": [
+        "Givuu",
+        "GENOS",
+        "Gon",
+        "Gyokuyou"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Gyokuyou.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_014",
+      "q": "من هو؟",
+      "a": "Takemichi",
+      "o": [
+        "Takehisa",
+        "TEMPEST",
+        "Tatsuya",
+        "Takemichi"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Takemichi.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_015",
+      "q": "من هو؟",
+      "a": "Baki",
+      "o": [
+        "Benimaru",
+        "Ace",
+        "Lemon",
+        "Baki"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Baki.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_016",
+      "q": "من هو؟",
+      "a": "Vuujirou",
+      "o": [
+        "Viktor",
+        "Vuujirou",
+        "Vegeta",
+        "Vamcha"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Vuujirou.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_017",
+      "q": "من هو؟",
+      "a": "Chie",
+      "o": [
+        "Chifuyu",
+        "Charmy",
+        "Conan",
+        "Chie"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Chie.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_018",
+      "q": "من هو؟",
+      "a": "Hattori",
+      "o": [
+        "Hanamichi",
+        "Hattori",
+        "Himiko",
+        "Hinata"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Hattori.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_019",
+      "q": "من هو؟",
+      "a": "Diao",
+      "o": [
+        "Zoro",
+        "lharu",
+        "Diao",
+        "Dragon"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Diao.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_020",
+      "q": "من هو؟",
+      "a": "Katka",
+      "o": [
+        "Kyouhel",
+        "Katka",
+        "Kouhel",
+        "Kenpachi"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Katka.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_021",
+      "q": "من هو؟",
+      "a": "Toshizou",
+      "o": [
+        "Tomura",
+        "Tatsumi",
+        "Toshizou",
+        "TEMPEST"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Toshizou.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_022",
+      "q": "من هو؟",
+      "a": "Kenshin",
+      "o": [
+        "Konohamary",
+        "Kyouhel",
+        "Kozue",
+        "Kenshin"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Kenshin.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_023",
+      "q": "من هو؟",
+      "a": "Kavo",
+      "o": [
+        "Kikoru",
+        "Kavo",
+        "Kaseki",
+        "Kyouhel"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Kavo.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_024",
+      "q": "من هو؟",
+      "a": "Hitari_-",
+      "o": [
+        "Hattori",
+        "Hanamichi",
+        "Hitari_-",
+        "Hinata"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Hitari_-.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_025",
+      "q": "من هو؟",
+      "a": "Sherlock",
+      "o": [
+        "Saitama",
+        "Sherlock",
+        "Senkuu",
+        "Soushirou"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Sherlock.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_026",
+      "q": "من هو؟",
+      "a": "Suzune",
+      "o": [
+        "Saku",
+        "Shigekuni",
+        "Suzune",
+        "Satoru"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Suzune.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_027",
+      "q": "من هو؟",
+      "a": "Soushirou",
+      "o": [
+        "Suzune",
+        "Sana",
+        "Soushirou",
+        "Saku"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Soushirou.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_028",
+      "q": "من هو؟",
+      "a": "VI",
+      "o": [
+        "Viktor",
+        "Vuujirou",
+        "VI",
+        "Vegeta"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/VI.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_029",
+      "q": "من هو؟",
+      "a": "Hyouga",
+      "o": [
+        "Hyouga",
+        "Hange",
+        "Hinata",
+        "Hitari_-"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Hyouga.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_030",
+      "q": "من هو؟",
+      "a": "Hana",
+      "o": [
+        "Hanamichi",
+        "Himiko",
+        "Hinata",
+        "Hana"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Hana.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_031",
+      "q": "من هو؟",
+      "a": "Reno",
+      "o": [
+        "Roger",
+        "Reno",
+        "Rukia",
+        "rem"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Reno.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_032",
+      "q": "من هو؟",
+      "a": "Shiki",
+      "o": [
+        "Sanosu",
+        "Shigekuni",
+        "Suzune",
+        "Shiki"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Shiki.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_033",
+      "q": "من هو؟",
+      "a": "Oboro",
+      "o": [
+        "euku",
+        "Oboro",
+        "Ogen",
+        "Onitakemaru"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Oboro.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_034",
+      "q": "من هو؟",
+      "a": "Ogen",
+      "o": [
+        "Naito",
+        "Oboro",
+        "Onitakemaru",
+        "Ogen"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Ogen.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_035",
+      "q": "من هو؟",
+      "a": "Uryuu",
+      "o": [
+        "Uryuu",
+        "unit",
+        "SuRin",
+        "Fuuko"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Uryuu.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_036",
+      "q": "من هو؟",
+      "a": "William",
+      "o": [
+        "Tomura",
+        "Wendy",
+        "William",
+        "Vegeta"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/William.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_037",
+      "q": "من هو؟",
+      "a": "JeumakiBoruto",
+      "o": [
+        "Joo-Hee",
+        "Jian",
+        "Jin-Ah",
+        "JeumakiBoruto"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/JeumakiBoruto.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_038",
+      "q": "من هو؟",
+      "a": "Jinshi",
+      "o": [
+        "Joo-Hee",
+        "Jinshi",
+        "Jack",
+        "Jin"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Jinshi.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_039",
+      "q": "من هو؟",
+      "a": "Alluka",
+      "o": [
+        "Akitaru",
+        "Ace",
+        "Angelo",
+        "Alluka"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Alluka.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_040",
+      "q": "من هو؟",
+      "a": "Killua",
+      "o": [
+        "Killua",
+        "Kaede",
+        "Katka",
+        "Kakeru"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Killua.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_041",
+      "q": "من هو؟",
+      "a": "Kyouhel",
+      "o": [
+        "Kyouhel",
+        "Kavo",
+        "Kohaku",
+        "Kakeru"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Kyouhel.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_042",
+      "q": "من هو؟",
+      "a": "Nezuko",
+      "o": [
+        "Nic",
+        "Neva",
+        "Nezuko",
+        "Naito"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Nezuko.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_043",
+      "q": "من هو؟",
+      "a": "Tanjirou",
+      "o": [
+        "Thorfinn",
+        "TEMPEST",
+        "Tatsuya",
+        "Tanjirou"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Tanjirou.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_044",
+      "q": "من هو؟",
+      "a": "Kaoru",
+      "o": [
+        "Krista",
+        "Kenshin",
+        "Kaoru",
+        "Kavo"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Kaoru.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_045",
+      "q": "من هو؟",
+      "a": "Kei",
+      "o": [
+        "Kei",
+        "Kouta",
+        "Kaseki",
+        "Konohamary"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Kei.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_046",
+      "q": "من هو؟",
+      "a": "Kaseki",
+      "o": [
+        "Kakeru",
+        "Kenpachi",
+        "Kenshin",
+        "Kaseki"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Kaseki.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_047",
+      "q": "من هو؟",
+      "a": "Nahoya",
+      "o": [
+        "Nic",
+        "Neva",
+        "Nahoya",
+        "Nero"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Nahoya.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_048",
+      "q": "من هو؟",
+      "a": "King",
+      "o": [
+        "Kei",
+        "Kaoru",
+        "Kaede",
+        "King"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/King.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_049",
+      "q": "من هو؟",
+      "a": "Kohaku",
+      "o": [
+        "Kohaku",
+        "Kakeru",
+        "Kaya",
+        "Katka"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Kohaku.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_050",
+      "q": "من هو؟",
+      "a": "Tamak",
+      "o": [
+        "Takehisa",
+        "Tamak",
+        "Thorkell",
+        "Takayuki"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Tamak.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_051",
+      "q": "من هو؟",
+      "a": "Gennosuke",
+      "o": [
+        "Gennosuke",
+        "GENOS",
+        "Gokuu",
+        "Gon"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Gennosuke.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_052",
+      "q": "من هو؟",
+      "a": "Jin",
+      "o": [
+        "Jack",
+        "Jian",
+        "Julius",
+        "Jin"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Jin.jpg"
+    }
+  ],
+  "medium": [
+    {
+      "id": "anime_whois_img_anime_053",
+      "q": "من هو؟",
+      "a": "Jinzaburou",
+      "o": [
+        "Jinzaburou",
+        "Jin-Ah",
+        "Julius",
+        "Jin-Woo"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Jinzaburou.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_054",
+      "q": "من هو؟",
+      "a": "Rukia",
+      "o": [
+        "Rukia",
+        "rem",
+        "Reno",
+        "Rensuke"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Rukia.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_055",
+      "q": "من هو؟",
+      "a": "Kouta",
+      "o": [
+        "Kohaku",
+        "Kaoru",
+        "Kouhel",
+        "Kouta"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Kouta.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_056",
+      "q": "من هو؟",
+      "a": "Aoi",
+      "o": [
+        "Aoi",
+        "Angelo",
+        "Alluka",
+        "Ace"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Aoi.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_057",
+      "q": "من هو؟",
+      "a": "Rensuke",
+      "o": [
+        "Roger",
+        "rem",
+        "Rukia",
+        "Rensuke"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Rensuke.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_058",
+      "q": "من هو؟",
+      "a": "Ichiag",
+      "o": [
+        "ia",
+        "Ichiag",
+        "Isaac",
+        "Izaya"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Ichiag.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_059",
+      "q": "من هو؟",
+      "a": "Shinra",
+      "o": [
+        "Shinra",
+        "Shiki",
+        "Saitama",
+        "Soushirou"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Shinra.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_060",
+      "q": "من هو؟",
+      "a": "Angelo",
+      "o": [
+        "Angelo",
+        "Ace",
+        "Aoi",
+        "Alluka"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Angelo.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_061",
+      "q": "من هو؟",
+      "a": "Joo-Hee",
+      "o": [
+        "Jin-Ah",
+        "JeumakiBoruto",
+        "Jian",
+        "Joo-Hee"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Joo-Hee.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_062",
+      "q": "من هو؟",
+      "a": "Giang",
+      "o": [
+        "GENOS",
+        "Gray",
+        "Giang",
+        "Gohan"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Giang.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_063",
+      "q": "من هو؟",
+      "a": "Krista",
+      "o": [
+        "Krista",
+        "Kakeru",
+        "Kozue",
+        "Kouta"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Krista.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_064",
+      "q": "من هو؟",
+      "a": "Levi",
+      "o": [
+        "Leorio",
+        "Lemon",
+        "lharu",
+        "Levi"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Levi.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_065",
+      "q": "من هو؟",
+      "a": "Mu",
+      "o": [
+        "Mirai",
+        "Mu",
+        "Maomao",
+        "Misato"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Mu.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_066",
+      "q": "من هو؟",
+      "a": "Xin",
+      "o": [
+        "euku",
+        "Xin",
+        "Sana",
+        "King"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Xin.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_067",
+      "q": "من هو؟",
+      "a": "Viktor",
+      "o": [
+        "Vamcha",
+        "Vuujirou",
+        "Viktor",
+        "VI"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Viktor.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_068",
+      "q": "من هو؟",
+      "a": "Lihaku",
+      "o": [
+        "Lihaku",
+        "Luomen",
+        "Leorio",
+        "lharu"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Lihaku.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_069",
+      "q": "من هو؟",
+      "a": "Luomen",
+      "o": [
+        "Leorio",
+        "Law",
+        "Lemon",
+        "Luomen"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Luomen.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_070",
+      "q": "من هو؟",
+      "a": "Maki",
+      "o": [
+        "Muten-Roushi",
+        "Mirai",
+        "Mavis",
+        "Maki"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Maki.jpeg"
+    },
+    {
+      "id": "anime_whois_img_anime_071",
+      "q": "من هو؟",
+      "a": "Maomao",
+      "o": [
+        "Maomao",
+        "Mirai",
+        "Mavis",
+        "Muichirou"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Maomao.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_072",
+      "q": "من هو؟",
+      "a": "Wendy",
+      "o": [
+        "Wendy",
+        "Neva",
+        "William",
+        "Ogen"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Wendy.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_073",
+      "q": "من هو؟",
+      "a": "Kozue",
+      "o": [
+        "Kaoru",
+        "Kozue",
+        "Kouhel",
+        "Kaede"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Kozue.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_074",
+      "q": "من هو؟",
+      "a": "Chifuyu",
+      "o": [
+        "Chie",
+        "Conan",
+        "Charmy",
+        "Chifuyu"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Chifuyu.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_075",
+      "q": "من هو؟",
+      "a": "euku",
+      "o": [
+        "Eisaku",
+        "Eren",
+        "Emma",
+        "euku"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/euku.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_076",
+      "q": "من هو؟",
+      "a": "Takehisa",
+      "o": [
+        "TEMPEST",
+        "Takehisa",
+        "Thorfinn",
+        "Toshizou"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Takehisa.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_077",
+      "q": "من هو؟",
+      "a": "Mitsuki",
+      "o": [
+        "Muten-Roushi",
+        "Mitsuki",
+        "Maomao",
+        "Maki"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Mitsuki.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_078",
+      "q": "من هو؟",
+      "a": "Dragon",
+      "o": [
+        "Dragon",
+        "Nezuko",
+        "Zheng",
+        "Diao"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Dragon.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_079",
+      "q": "من هو؟",
+      "a": "Luffy",
+      "o": [
+        "Luomen",
+        "lharu",
+        "Luffy",
+        "Lihaku"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Luffy.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_080",
+      "q": "من هو؟",
+      "a": "Naito",
+      "o": [
+        "Naito",
+        "Nero",
+        "Nahoya",
+        "Nezuko"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Naito.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_081",
+      "q": "من هو؟",
+      "a": "Muten-Roushi",
+      "o": [
+        "Maniirou",
+        "Muten-Roushi",
+        "Muichirou",
+        "Maomao"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Muten-Roushi.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_082",
+      "q": "من هو؟",
+      "a": "Yahiko",
+      "o": [
+        "Yami",
+        "Oboro",
+        "Yahiko",
+        "Yoichi"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Yahiko.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_083",
+      "q": "من هو؟",
+      "a": "Subaru",
+      "o": [
+        "Saitama",
+        "Shouto",
+        "Subaru",
+        "Saku"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Subaru.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_084",
+      "q": "من هو؟",
+      "a": "Isaac",
+      "o": [
+        "Ichiag",
+        "ia",
+        "Isaac",
+        "Izaya"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Isaac.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_085",
+      "q": "من هو؟",
+      "a": "Neva",
+      "o": [
+        "Nana",
+        "Naito",
+        "Neva",
+        "Nero"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Neva.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_086",
+      "q": "من هو؟",
+      "a": "Nic",
+      "o": [
+        "Nic",
+        "Naito",
+        "Nana",
+        "Neva"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Nic.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_087",
+      "q": "من هو؟",
+      "a": "Kouhel",
+      "o": [
+        "Kenshin",
+        "Konohamary",
+        "Kouhel",
+        "Kakeru"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Kouhel.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_088",
+      "q": "من هو؟",
+      "a": "Julius",
+      "o": [
+        "Jin-Ah",
+        "Jin",
+        "Julius",
+        "Jack"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Julius.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_089",
+      "q": "من هو؟",
+      "a": "Tatsumi",
+      "o": [
+        "Tatsumaki",
+        "Tanjirou",
+        "Tatsumi",
+        "Teruhi-hime"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Tatsumi.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_090",
+      "q": "من هو؟",
+      "a": "Onitakemaru",
+      "o": [
+        "Oboro",
+        "Onitakemaru",
+        "Ogen",
+        "Teruhi-hime"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Onitakemaru.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_091",
+      "q": "من هو؟",
+      "a": "Eisaku",
+      "o": [
+        "Emma",
+        "Eren",
+        "Eisaku",
+        "Erza"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Eisaku.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_092",
+      "q": "من هو؟",
+      "a": "Akitaru",
+      "o": [
+        "Angelo",
+        "Aoi",
+        "Akitaru",
+        "Ace"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Akitaru.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_093",
+      "q": "من هو؟",
+      "a": "Leorio",
+      "o": [
+        "Law",
+        "Leorio",
+        "Lihaku",
+        "lharu"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Leorio.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_094",
+      "q": "من هو؟",
+      "a": "Charmy",
+      "o": [
+        "Charmy",
+        "Conan",
+        "Chifuyu",
+        "Chie"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Charmy.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_095",
+      "q": "من هو؟",
+      "a": "Piccolo",
+      "o": [
+        "Hattori",
+        "Piccolo",
+        "purnedeadMash",
+        "Hyouga"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Piccolo.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_096",
+      "q": "من هو؟",
+      "a": "Ace",
+      "o": [
+        "Ace",
+        "Alluka",
+        "Angelo",
+        "Aoi"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Ace.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_097",
+      "q": "من هو؟",
+      "a": "Jack",
+      "o": [
+        "Jin-Woo",
+        "Jin",
+        "Jack",
+        "Julius"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Jack.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_098",
+      "q": "من هو؟",
+      "a": "Zoro",
+      "o": [
+        "Isaac",
+        "Fuuko",
+        "Zheng",
+        "Zoro"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Zoro.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_099",
+      "q": "من هو؟",
+      "a": "Kaede",
+      "o": [
+        "Kenpachi",
+        "Kaede",
+        "King",
+        "Katka"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Kaede.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_100",
+      "q": "من هو؟",
+      "a": "Kakeru",
+      "o": [
+        "King",
+        "Kaede",
+        "Kohaku",
+        "Kakeru"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Kakeru.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_101",
+      "q": "من هو؟",
+      "a": "Sanosu",
+      "o": [
+        "Shigekuni",
+        "Sanosu",
+        "SuRin",
+        "Saichi"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Sanosu.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_102",
+      "q": "من هو؟",
+      "a": "Saitama",
+      "o": [
+        "SuRin",
+        "Shiki",
+        "SweetMask",
+        "Saitama"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Saitama.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_103",
+      "q": "من هو؟",
+      "a": "Saku",
+      "o": [
+        "Sanosu",
+        "Sherlock",
+        "Shiki",
+        "Saku"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Saku.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_104",
+      "q": "من هو؟",
+      "a": "Hanamichi",
+      "o": [
+        "Hange",
+        "Hana",
+        "Hattori",
+        "Hanamichi"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Hanamichi.jpg"
+    }
+  ],
+  "hard": [
+    {
+      "id": "anime_whois_img_anime_105",
+      "q": "من هو؟",
+      "a": "Sana",
+      "o": [
+        "Soushirou",
+        "Saichi",
+        "Sana",
+        "Satoru"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Sana.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_106",
+      "q": "من هو؟",
+      "a": "Emma",
+      "o": [
+        "Eren",
+        "Emma",
+        "euku",
+        "Erza"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Emma.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_107",
+      "q": "من هو؟",
+      "a": "Maniirou",
+      "o": [
+        "Makarov",
+        "Muichirou",
+        "Maniirou",
+        "Muten-Roushi"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Maniirou.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_108",
+      "q": "من هو؟",
+      "a": "Konohamary",
+      "o": [
+        "Kaseki",
+        "Katka",
+        "Kenpachi",
+        "Konohamary"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Konohamary.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_109",
+      "q": "من هو؟",
+      "a": "Kaya",
+      "o": [
+        "Kaya",
+        "Kakeru",
+        "Kavo",
+        "Kenshin"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Kaya.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_110",
+      "q": "من هو؟",
+      "a": "Mirai",
+      "o": [
+        "Mitsuki",
+        "Maniirou",
+        "Mavis",
+        "Mirai"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Mirai.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_111",
+      "q": "من هو؟",
+      "a": "Shizuo",
+      "o": [
+        "SweetMask",
+        "Sherlock",
+        "Saitama",
+        "Shizuo"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Shizuo.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_112",
+      "q": "من هو؟",
+      "a": "Erza",
+      "o": [
+        "Eisaku",
+        "Erza",
+        "Eren",
+        "euku"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Erza.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_113",
+      "q": "من هو؟",
+      "a": "Tomura",
+      "o": [
+        "Takayuki",
+        "Tatsuya",
+        "Tomura",
+        "Teruhi-hime"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Tomura.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_114",
+      "q": "من هو؟",
+      "a": "Benimaru",
+      "o": [
+        "Baki",
+        "Takayuki",
+        "Kyouhel",
+        "Benimaru"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Benimaru.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_115",
+      "q": "من هو؟",
+      "a": "Kikoru",
+      "o": [
+        "Kikoru",
+        "Kenshin",
+        "Katka",
+        "Kyouhel"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Kikoru.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_116",
+      "q": "من هو؟",
+      "a": "SuRin",
+      "o": [
+        "Suzune",
+        "SuRin",
+        "Shigekuni",
+        "Sherlock"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/SuRin.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_117",
+      "q": "من هو؟",
+      "a": "Gohan",
+      "o": [
+        "Givuu",
+        "Gyokuyou",
+        "Gohan",
+        "Gray"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Gohan.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_118",
+      "q": "من هو؟",
+      "a": "Gokuu",
+      "o": [
+        "Gon",
+        "Gohan",
+        "Gokuu",
+        "Gyokuyou"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Gokuu.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_119",
+      "q": "من هو؟",
+      "a": "Saichi",
+      "o": [
+        "Saichi",
+        "SweetMask",
+        "Saku",
+        "Shizuo"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Saichi.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_120",
+      "q": "من هو؟",
+      "a": "Yami",
+      "o": [
+        "Yahiko",
+        "Yoichi",
+        "Yami",
+        "lharu"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Yami.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_121",
+      "q": "من هو؟",
+      "a": "Jin-Ah",
+      "o": [
+        "Jinshi",
+        "Jack",
+        "Jin-Ah",
+        "Jinzaburou"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Jin-Ah.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_122",
+      "q": "من هو؟",
+      "a": "Jin-Woo",
+      "o": [
+        "Julius",
+        "Jin-Woo",
+        "Jack",
+        "JeumakiBoruto"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Jin-Woo.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_123",
+      "q": "من هو؟",
+      "a": "SweetMask",
+      "o": [
+        "SweetMask",
+        "Shiki",
+        "Sherlock",
+        "Shouto"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/SweetMask.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_124",
+      "q": "من هو؟",
+      "a": "TEMPEST",
+      "o": [
+        "Thorfinn",
+        "Tatsumi",
+        "Takemichi",
+        "TEMPEST"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/TEMPEST.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_125",
+      "q": "من هو؟",
+      "a": "Hinata",
+      "o": [
+        "Hitari_-",
+        "Hyouga",
+        "Hange",
+        "Hinata"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Hinata.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_126",
+      "q": "من هو؟",
+      "a": "Tatsumaki",
+      "o": [
+        "Takayuki",
+        "Tatsumaki",
+        "Tanjirou",
+        "Thorfinn"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Tatsumaki.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_127",
+      "q": "من هو؟",
+      "a": "Teruhi-hime",
+      "o": [
+        "Teruhi-hime",
+        "TEMPEST",
+        "Tanjirou",
+        "Tatsumaki"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Teruhi-hime.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_128",
+      "q": "من هو؟",
+      "a": "Thorfinn",
+      "o": [
+        "Toshizou",
+        "Tatsuya",
+        "Takemichi",
+        "Thorfinn"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Thorfinn.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_129",
+      "q": "من هو؟",
+      "a": "Thorkell",
+      "o": [
+        "Takayuki",
+        "Teruhi-hime",
+        "Thorkell",
+        "Thorfinn"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Thorkell.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_130",
+      "q": "من هو؟",
+      "a": "Shouto",
+      "o": [
+        "Sana",
+        "Shouto",
+        "Saitama",
+        "Soushirou"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Shouto.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_131",
+      "q": "من هو؟",
+      "a": "Himiko",
+      "o": [
+        "Hattori",
+        "Hinata",
+        "Himiko",
+        "Hyouga"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Himiko.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_132",
+      "q": "من هو؟",
+      "a": "Muichirou",
+      "o": [
+        "Mu",
+        "Mavis",
+        "Muichirou",
+        "Mirai"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Muichirou.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_133",
+      "q": "من هو؟",
+      "a": "Givuu",
+      "o": [
+        "Givuu",
+        "Gokuu",
+        "Giang",
+        "Gray"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Givuu.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_134",
+      "q": "من هو؟",
+      "a": "Vamcha",
+      "o": [
+        "VI",
+        "Viktor",
+        "Vamcha",
+        "Vuujirou"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Vamcha.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_135",
+      "q": "من هو؟",
+      "a": "Frate",
+      "o": [
+        "Fubuki",
+        "Frate",
+        "Franky",
+        "Fuuko"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Frate.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_136",
+      "q": "من هو؟",
+      "a": "Nero",
+      "o": [
+        "Naito",
+        "Nezuko",
+        "Nero",
+        "Newgate"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Nero.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_137",
+      "q": "من هو؟",
+      "a": "Vegeta",
+      "o": [
+        "Vuujirou",
+        "Vegeta",
+        "Viktor",
+        "Vamcha"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Vegeta.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_138",
+      "q": "من هو؟",
+      "a": "Mavis",
+      "o": [
+        "Mirai",
+        "Mavis",
+        "Maniirou",
+        "Maki"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Mavis.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_139",
+      "q": "من هو؟",
+      "a": "Jian",
+      "o": [
+        "Jin",
+        "Jian",
+        "Jin-Ah",
+        "Jinzaburou"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Jian.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_140",
+      "q": "من هو؟",
+      "a": "Shigekuni",
+      "o": [
+        "Sherlock",
+        "Shigekuni",
+        "SuRin",
+        "Suzune"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Shigekuni.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_141",
+      "q": "من هو؟",
+      "a": "Misato",
+      "o": [
+        "Mitsuki",
+        "Misato",
+        "Maomao",
+        "Muichirou"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Misato.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_142",
+      "q": "من هو؟",
+      "a": "Eren",
+      "o": [
+        "Emma",
+        "Eren",
+        "euku",
+        "Erza"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Eren.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_143",
+      "q": "من هو؟",
+      "a": "Zheng",
+      "o": [
+        "Wendy",
+        "lharu",
+        "Zheng",
+        "Zoro"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Zheng.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_144",
+      "q": "من هو؟",
+      "a": "Kenpachi",
+      "o": [
+        "Kaseki",
+        "Kenpachi",
+        "Kouhel",
+        "Kozue"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Kenpachi.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_145",
+      "q": "من هو؟",
+      "a": "Hange",
+      "o": [
+        "Hitari_-",
+        "Hinata",
+        "Hattori",
+        "Hange"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Hange.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_146",
+      "q": "من هو؟",
+      "a": "ia",
+      "o": [
+        "Isaac",
+        "Izaya",
+        "ia",
+        "Ichiag"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/ia.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_147",
+      "q": "من هو؟",
+      "a": "Lemon",
+      "o": [
+        "Lemon",
+        "Levi",
+        "Law",
+        "lharu"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Lemon.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_148",
+      "q": "من هو؟",
+      "a": "Izaya",
+      "o": [
+        "Isaac",
+        "Izaya",
+        "ia",
+        "Ichiag"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Izaya.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_149",
+      "q": "من هو؟",
+      "a": "Makarov",
+      "o": [
+        "Mu",
+        "Maniirou",
+        "Mitsuki",
+        "Makarov"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Makarov.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_150",
+      "q": "من هو؟",
+      "a": "purnedeadMash",
+      "o": [
+        "purnedeadMash",
+        "Muten-Roushi",
+        "JeumakiBoruto",
+        "Piccolo"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/purnedeadMash.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_151",
+      "q": "من هو؟",
+      "a": "rem",
+      "o": [
+        "Roger",
+        "Rensuke",
+        "Reno",
+        "rem"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/rem.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_152",
+      "q": "من هو؟",
+      "a": "Yoichi",
+      "o": [
+        "Saichi",
+        "Yoichi",
+        "Yami",
+        "Yahiko"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Yoichi.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_153",
+      "q": "من هو؟",
+      "a": "Senkuu",
+      "o": [
+        "Sherlock",
+        "Senkuu",
+        "SweetMask",
+        "Shiki"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Senkuu.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_154",
+      "q": "من هو؟",
+      "a": "Satoru",
+      "o": [
+        "Suzune",
+        "Shiki",
+        "Satoru",
+        "Soushirou"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Satoru.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_155",
+      "q": "من هو؟",
+      "a": "unit",
+      "o": [
+        "unit",
+        "Uryuu",
+        "Sana",
+        "Kaoru"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/unit.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_156",
+      "q": "من هو؟",
+      "a": "Law",
+      "o": [
+        "Lihaku",
+        "Luffy",
+        "Law",
+        "lharu"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Law.jpg"
+    },
+    {
+      "id": "anime_whois_img_anime_157",
+      "q": "من هو؟",
+      "a": "Fuuko",
+      "o": [
+        "Franky",
+        "Frate",
+        "Fuuko",
+        "Fubuki"
+      ],
+      "h": "",
+      "mkind": "img",
+      "img": "assets/Anime/whois/img_anime/Fuuko.jpg"
+    }
+  ]
+}
